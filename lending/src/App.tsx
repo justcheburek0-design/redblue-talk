@@ -1,8 +1,10 @@
+'use client'
+
 import { useState } from 'react'
 
 type Theme = 'dark' | 'light'
 
-const asset = (path: string) => `${import.meta.env.BASE_URL}${path.replace(/^\//, '')}`
+const asset = (path: string) => `/redblue/${path.replace(/^\//, '')}`
 
 const nav = [
   ['Для кого', 'about'], ['Форматы', 'formats'], ['Расписание', 'schedule'],
