@@ -43,22 +43,24 @@ function App() {
     </header>
 
     <section className="hero">
-      <img className="hero-master" src={asset('assets/source/img_d84cb49df496.png')} alt="" />
-      <div className="container hero-copy">
+      <div className="container hero-layout">
         <div className="hero-heading">
           <h1>English</h1>
           <p className="hero-title">на котором ты наконец заговоришь</p>
         </div>
         <p className="hero-description">Бесплатный спикинг-клуб, где подростки и студенты могут преодолеть языковой барьер.<br />Главное просто начать!</p>
-      </div>
-      <div className="hero-route" aria-label="Путь от точки А к точке Б">
-        <svg className="route-line" viewBox="0 0 640 750" preserveAspectRatio="none" aria-hidden="true"><path d="M105 72 C194 159 141 217 272 289 S450 398 349 483 S271 624 492 681" /></svg>
-        <span className="route-point point-a">Точка А</span>
-        <span className="route-card route-no-barrier">Нет барьеру!</span>
-        <span className="route-card route-lexicon">Полезная лексика</span>
-        <span className="route-card route-friends">Новые знакомства</span>
-        <span className="route-card route-dialogue">Умение вести диалог</span>
-        <span className="route-point point-b">Точка Б</span>
+        <div className="iceberg-viewport">
+          <div className="iceberg-scene" aria-label="Путь от точки А к точке Б">
+            <img className="iceberg-art" src={asset('assets/source/img_d84cb49df496.png')} alt="" />
+            <svg className="route-line" viewBox="0 0 1442 2140" preserveAspectRatio="xMidYMid meet" aria-hidden="true"><path d="M599 621 C688 708 635 766 766 838 S944 947 843 1032 S765 1173 986 1230" /></svg>
+            <span className="route-point point-a">Точка А</span>
+            <span className="route-card route-no-barrier">Нет барьеру!</span>
+            <span className="route-card route-lexicon">Полезная лексика</span>
+            <span className="route-card route-friends">Новые знакомства</span>
+            <span className="route-card route-dialogue">Умение вести диалог</span>
+            <span className="route-point point-b">Точка Б</span>
+          </div>
+        </div>
       </div>
     </section>
 
