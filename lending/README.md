@@ -5,14 +5,15 @@
 ## Команды
 
 ```bash
-npm run dev
-npm run build
-npm run start
-npm run lint
-npm run typecheck
-npm run serve:export
+bun install --frozen-lockfile
+bun run dev
+bun run build
+bun run start
+bun run lint
+bun run typecheck
+bun run serve:export
 ```
 
 Сборка статически экспортируется в `out/` с базовым путём `/redblue/`.
 
-Для runtime-проверки export: после `npm run build` запусти `npm run serve:export`, затем в другом терминале `npm run verify:hero`. Сервер публикует `out/` по `http://127.0.0.1:4174/redblue/`.
+Для runtime-проверки export: после `bun run build` запусти `bun run serve:export`, затем в другом терминале `bun run verify:hero`. Сервер публикует `out/` по `http://127.0.0.1:4174/redblue/`.
