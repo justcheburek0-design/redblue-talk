@@ -50,7 +50,10 @@ function App() {
           <h1>English</h1>
           <p className="hero-title">на котором ты наконец заговоришь</p>
         </div>
-        <p className="hero-description">Бесплатный спикинг-клуб, где подростки и студенты могут преодолеть языковой барьер.<br />Главное просто начать!</p>
+        <p className="hero-description">
+          <span>Бесплатный спикинг-клуб, где<br />подростки и студенты могут<br />преодолеть языковой барьер.</span>
+          <strong>Главное просто начать!</strong>
+        </p>
         <div className="iceberg-viewport">
           <div className="iceberg-scene" aria-label="Путь от точки А к точке Б">
             <img className="iceberg-art" src={asset('assets/source/img_d84cb49df496.png')} alt="" />
