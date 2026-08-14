@@ -1,0 +1,935 @@
+NODES:
+[CANVAS] "Page 1" #0:1
+  [FRAME] "Готовая концепция" #2:36 template=EL-d24abc42
+    [TEXT] #57:55 template=EL-dc2686ad
+    [FRAME] #57:58 template=EL-a05f0814
+      [TEXT] #56:53 template=EL-e90aec5b
+      [TEXT] #53:52 template=EL-96fd8025
+    [FRAME] #57:57 template=EL-619d723b
+      [IMAGE-SVG] #51:39 template=EL-e14f4809
+      [FRAME] #52:48 template=EL-f7c253f4
+        [TEXT] #52:40 template=EL-83d2d6d2
+        [TEXT] #52:42 template=EL-12315673
+        [TEXT] #52:43 template=EL-881c3ccc
+        [TEXT] #52:44 template=EL-1147d5df
+        [TEXT] #52:45 template=EL-7b48027b
+        [TEXT] #52:46 template=EL-fcc2473f
+        [TEXT] #52:47 template=EL-09a52a33
+      [FRAME] #52:49 template=EL-ccf746c8
+        [TEXT] #52:50 template=EL-29e10c08
+    [RECTANGLE] "image 31" #61:114 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":721,"y":119},"dimensions":{"width":614,"height":599}} fills=[{"type":"IMAGE","imageRef":"8ca1123586fa3f342568d8ed4a0c9af82e8678a4","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}] borderRadius=20px
+  [FRAME] "Готовая концепция" #63:167 template=EL-d24abc42
+    [TEXT] #63:168 layout=layout_bd6d85fe fills=fill_34dc0314 textStyle="aenik reg 32px" text="Бесплатный спикинг-клуб, где подростки и студенты могут преодолеть языковой барьер. \\nГлавное просто начать!"
+    [TEXT] #63:170 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":113,"y":178},"dimensions":{"width":630,"height":72}} fills=fill_34dc0314 textStyle="acent regular 60px" text="English"
+    [TEXT] #63:171 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":113,"y":258},"dimensions":{"width":630,"height":120}} fills=fill_34dc0314 textStyle=style_3c1f8c23 text="на котором ты наконец заговоришь"
+    [FRAME] #63:172 template=EL-619d723b
+      [IMAGE-SVG] #63:173 template=EL-e14f4809
+      [FRAME] #63:176 template=EL-f7c253f4
+        [TEXT] #63:177 template=EL-83d2d6d2
+        [TEXT] #63:178 template=EL-12315673
+        [TEXT] #63:179 template=EL-881c3ccc
+        [TEXT] #63:180 template=EL-1147d5df
+        [TEXT] #63:181 template=EL-7b48027b
+        [TEXT] #63:182 template=EL-fcc2473f
+        [TEXT] #63:183 template=EL-09a52a33
+      [FRAME] #63:184 template=EL-ccf746c8
+        [TEXT] #63:185 layout=layout_177c5efc fills=black textStyle="aenik bold 18px" text="Присоединиться"
+    [FRAME] #63:190 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":729,"y":159},"dimensions":{"width":600,"height":579}} fills=fill_658ab2fa effects={"boxShadow":"0px 4px 24.299999237060547px 0px rgba(0, 0, 0, 0.25)"} borderRadius=20px
+      [RECTANGLE] "ааацке 1" #64:204 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":32,"y":247},"dimensions":{"width":537,"height":309}} fills=[{"type":"IMAGE","imageRef":"e758e06c4558bf2d5fa4a9fd08f6fd0ae1c3a84f","scaleMode":"STRETCH","objectFit":"fill","isBackground":false,"imageDownloadArguments":{"needsCropping":true,"requiresImageDimensions":false,"cropTransform":[[1,0,0],[0,0.5151006579399109,0.2108423411846161]],"filenameSuffix":"2407f3"}}] borderRadius=20px
+      [FRAME] #63:195 layout={"mode":"row","padding":"18px 30px","justifyContent":"center","alignItems":"center","gap":"10px","sizing":{"horizontal":"fixed","vertical":"hug"},"locationRelativeToParent":{"x":406,"y":54},"dimensions":{"width":163}} fills=["#F2F2F2"] borderRadius=20px
+        [TEXT] #63:196 layout=layout_177c5efc fills=black textStyle={"fontFamily":"Aeonik Pro","fontStyle":"Bold","fontWeight":700,"fontSize":24,"lineHeight":"1.2em","textAlignHorizontal":"LEFT","textAlignVertical":"TOP"} text="Join"
+      [FRAME] #65:208 layout={"mode":"column","alignItems":"stretch","gap":"9px","sizing":{"horizontal":"fixed","vertical":"hug"},"locationRelativeToParent":{"x":32,"y":56},"dimensions":{"width":324}}
+        [TEXT] #63:191 layout=layout_56d3c81c fills=fill_34dc0314 textStyle=style_5fca3165 text="Next meeting"
+        [TEXT] #63:192 layout=layout_56d3c81c fills=gray textStyle={"fontFamily":"Aeonik Pro","fontStyle":"Regular","fontWeight":400,"fontSize":26,"lineHeight":"1.2em","textAlignHorizontal":"LEFT","textAlignVertical":"TOP"} text="St 6 august, 18:00"
+  [FRAME] "Готовая концепция" #61:95 template=EL-d24abc42
+    [TEXT] #61:96 template=EL-dc2686ad
+    [FRAME] #61:97 template=EL-a05f0814
+      [TEXT] #61:98 template=EL-e90aec5b
+      [TEXT] #61:99 template=EL-96fd8025
+    [FRAME] #61:100 template=EL-619d723b
+      [IMAGE-SVG] #61:101 template=EL-e14f4809
+      [FRAME] #61:104 template=EL-f7c253f4
+        [TEXT] #61:105 template=EL-83d2d6d2
+        [TEXT] #61:106 template=EL-12315673
+        [TEXT] #61:107 template=EL-881c3ccc
+        [TEXT] #61:108 template=EL-1147d5df
+        [TEXT] #61:109 template=EL-7b48027b
+        [TEXT] #61:110 template=EL-fcc2473f
+        [TEXT] #61:111 template=EL-09a52a33
+      [FRAME] #61:112 template=EL-ccf746c8
+        [TEXT] #61:113 template=EL-29e10c08
+    [RECTANGLE] "image 33" #61:93 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":730,"y":144},"dimensions":{"width":599,"height":574}} fills=[{"type":"IMAGE","imageRef":"862697846843cd224c33dc2a304e8a706913f08d","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}] borderRadius=20px
+    [FRAME] #63:159 template=EL-9c586217
+      [TEXT] #63:160 layout=layout_177c5efc fills=black textStyle=style_b3931e29 text="5+ спикеров"
+    [FRAME] #63:161 layout={"mode":"row","padding":"18px 30px","justifyContent":"center","alignItems":"center","gap":"10px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":655,"y":192}} fills=fill_1c042216 effects=effect_a463446a borderRadius=20px
+      [TEXT] #63:162 layout=layout_177c5efc fills=black textStyle=style_b3931e29 text="ломаем барьер"
+  [RECTANGLE] "image 34" #63:164 layout={"mode":"none","sizing":{},"dimensions":{"width":626,"height":417}} fills=[{"type":"IMAGE","imageRef":"17eff9cccde2926892caa1820c3b9926e41ee281","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [FRAME] "Готовая концепция" #61:116 template=EL-d24abc42
+    [TEXT] #61:117 template=EL-dc2686ad
+    [FRAME] #61:118 template=EL-a05f0814
+      [TEXT] #61:119 template=EL-e90aec5b
+      [TEXT] #61:120 template=EL-96fd8025
+    [FRAME] #61:121 template=EL-619d723b
+      [IMAGE-SVG] #61:122 template=EL-e14f4809
+      [FRAME] #61:125 template=EL-f7c253f4
+        [TEXT] #61:126 template=EL-83d2d6d2
+        [TEXT] #61:127 template=EL-12315673
+        [TEXT] #61:128 template=EL-881c3ccc
+        [TEXT] #61:129 template=EL-1147d5df
+        [TEXT] #61:130 template=EL-7b48027b
+        [TEXT] #61:131 template=EL-fcc2473f
+        [TEXT] #61:132 template=EL-09a52a33
+      [FRAME] #61:133 template=EL-ccf746c8
+        [TEXT] #61:134 template=EL-29e10c08
+    [RECTANGLE] "image 32" #61:136 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":701,"y":151},"dimensions":{"width":624,"height":560}} fills=fill_f8449a1b borderRadius=20px
+  [FRAME] "Готовая концепция" #61:138 template=EL-d24abc42
+    [TEXT] #61:139 template=EL-dc2686ad
+    [FRAME] #61:140 template=EL-a05f0814
+      [TEXT] #61:141 template=EL-e90aec5b
+      [TEXT] #61:142 template=EL-96fd8025
+    [FRAME] #61:143 template=EL-619d723b
+      [IMAGE-SVG] #61:144 template=EL-e14f4809
+      [FRAME] #61:147 template=EL-f7c253f4
+        [TEXT] #61:148 template=EL-83d2d6d2
+        [TEXT] #61:149 template=EL-12315673
+        [TEXT] #61:150 template=EL-881c3ccc
+        [TEXT] #61:151 template=EL-1147d5df
+        [TEXT] #61:152 template=EL-7b48027b
+        [TEXT] #61:153 template=EL-fcc2473f
+        [TEXT] #61:154 template=EL-09a52a33
+      [FRAME] #61:155 template=EL-ccf746c8
+        [TEXT] #61:156 template=EL-29e10c08
+    [RECTANGLE] "image 32" #61:157 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":701,"y":151},"dimensions":{"width":624,"height":567}} fills=fill_f8449a1b borderRadius=20px
+  [FRAME] "Готовая концепция" #65:210 template=EL-d24abc42
+    [RECTANGLE] "image 36" #65:231 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":0,"y":-26},"dimensions":{"width":1442,"height":2884}} fills=fill_42b34443
+    [FRAME] #65:212 template=EL-a05f0814
+      [TEXT] #65:213 layout=layout_56d3c81c fills=white textStyle=style_23497337 text="English"
+      [TEXT] #65:214 layout=layout_56d3c81c fills=white textStyle=style_3c1f8c23 text="на котором ты наконец заговоришь"
+    [FRAME] #65:215 template=EL-619d723b
+      [IMAGE-SVG] #65:216 template=EL-e14f4809
+      [FRAME] #65:219 template=EL-f7c253f4
+        [TEXT] #65:220 template=EL-a4732f26
+        [TEXT] #65:221 template=EL-9b596f07
+        [TEXT] #65:222 template=EL-51aa1cfc
+        [TEXT] #65:223 template=EL-f5da2f08
+        [TEXT] #65:224 template=EL-9381d852
+        [TEXT] #65:225 template=EL-d20c65d3
+        [TEXT] #65:226 template=EL-4412b74b
+      [FRAME] #65:227 template=EL-93105b12
+        [TEXT] #65:228 template=EL-9d252206
+    [RECTANGLE] "image 32" #65:229 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":751,"y":151},"dimensions":{"width":574,"height":567}} fills=fill_f8449a1b borderRadius=20px
+    [FRAME] #65:234 template=EL-9c586217
+      [TEXT] #65:235 template=EL-ed303135
+    [FRAME] #65:236 layout={"mode":"row","padding":"18px 30px","justifyContent":"center","alignItems":"center","gap":"10px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":683,"y":192}} fills=fill_1c042216 effects=effect_a463446a borderRadius=20px
+      [TEXT] #65:237 template=EL-12160cf2
+    [TEXT] #65:211 layout=layout_bd6d85fe fills=white textStyle=style_5fca3165 text="Бесплатный спикинг-клуб, где подростки и студенты могут преодолеть языковой барьер. \\nГлавное просто начать!"
+  [FRAME] "Готовая концепция" #65:239 template=EL-d24abc42
+    [RECTANGLE] "image 36" #65:240 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":0,"y":-561},"dimensions":{"width":1442,"height":2884}} fills=fill_42b34443
+    [TEXT] #65:242 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":117,"y":169},"dimensions":{"width":630,"height":96}} fills=white textStyle=style_23497337 text="English"
+    [TEXT] #65:243 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":117,"y":279},"dimensions":{"width":539,"height":120}} fills=white textStyle=style_3c1f8c23 text="на котором ты наконец заговоришь"
+    [FRAME] #65:244 template=EL-619d723b
+      [IMAGE-SVG] #65:245 template=EL-e14f4809
+      [FRAME] #65:248 template=EL-f7c253f4
+        [TEXT] #65:249 template=EL-a4732f26
+        [TEXT] #65:250 template=EL-9b596f07
+        [TEXT] #65:251 template=EL-51aa1cfc
+        [TEXT] #65:252 template=EL-f5da2f08
+        [TEXT] #65:253 template=EL-9381d852
+        [TEXT] #65:254 template=EL-d20c65d3
+        [TEXT] #65:255 template=EL-4412b74b
+      [FRAME] #65:256 template=EL-93105b12
+        [TEXT] #65:257 template=EL-9d252206
+    [TEXT] #65:263 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":830,"y":169},"dimensions":{"width":499,"height":152}} fills=white textStyle=style_a580bdb5 text="Бесплатный спикинг-клуб, где подростки и студенты могут преодолеть языковой барьер.\\nГлавное просто начать!"
+    [IMAGE-SVG] #65:278 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":256.42,"y":319.23},"dimensions":{"width":879.98,"height":741.52}} strokes=fill_3cdb7ab8 strokeWeight=6px
+    [FRAME] #65:280 layout={"mode":"row","padding":"18px 30px","justifyContent":"center","alignItems":"center","gap":"10px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":551,"y":951}} fills="dark red" effects=effect_a463446a borderRadius=20px
+      [TEXT] #65:281 template=EL-c8aded96
+    [FRAME] #65:282 layout={"mode":"row","padding":"18px 30px","justifyContent":"center","alignItems":"center","gap":"10px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":386,"y":485}} fills=fill_d688abde effects=effect_a463446a borderRadius=20px
+      [TEXT] #65:283 layout=layout_177c5efc fills=white textStyle=style_b3931e29 text="Нет барьеру!"
+    [FRAME] #65:284 layout={"mode":"row","padding":"18px 30px","justifyContent":"center","alignItems":"center","gap":"10px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":886,"y":551}} fills=fill_d688abde effects=effect_a463446a borderRadius=20px
+      [TEXT] #65:285 layout=layout_177c5efc fills=white textStyle=style_b3931e29 text="Новые знакомства"
+    [FRAME] #65:286 layout={"mode":"row","padding":"18px 30px","justifyContent":"center","alignItems":"center","gap":"10px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":205,"y":707}} fills=fill_d688abde effects=effect_a463446a borderRadius=20px
+      [TEXT] #65:287 layout=layout_177c5efc fills=white textStyle=style_b3931e29 text="Бесплатно"
+    [FRAME] #65:288 layout={"mode":"row","padding":"18px 30px","justifyContent":"center","alignItems":"center","gap":"10px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":1067,"y":740}} fills=fill_d688abde effects=effect_a463446a borderRadius=20px
+      [TEXT] #65:289 template=EL-ed303135
+    [IMAGE-SVG] #66:343 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":630.56,"y":916.92},"dimensions":{"width":33.39,"height":38.4}} strokes=fill_3cdb7ab8 strokeWeight=4px
+    [FRAME] #73:408 layout={"mode":"row","padding":"18px 30px","justifyContent":"center","alignItems":"center","gap":"10px","sizing":{"horizontal":"fixed","vertical":"fixed"},"locationRelativeToParent":{"x":759.09,"y":367.74},"dimensions":{"width":157,"height":67}} fills="dark blue" effects=effect_a463446a borderRadius=20px
+      [TEXT] #73:409 template=EL-7f1e0a20
+    [IMAGE-SVG] #73:410 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":732,"y":363},"dimensions":{"width":39.68,"height":38.87}} strokes=fill_3cdb7ab8 strokeWeight=4px
+  [FRAME] "Готовая концепция" #73:373 template=EL-d24abc42
+    [RECTANGLE] "image 42" #84:472 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":-11,"y":-346},"dimensions":{"width":1479,"height":2628}} fills=[{"type":"IMAGE","imageRef":"e3deaecbdfbc6243ae8cfc71164beaa6be50d18a","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+    [TEXT] #73:375 template=EL-76b94772
+    [TEXT] #73:376 template=EL-e8557c38
+    [FRAME] #73:377 template=EL-619d723b
+      [IMAGE-SVG] #73:378 template=EL-e14f4809
+      [FRAME] #73:381 template=EL-f7c253f4
+        [TEXT] #73:382 template=EL-a4732f26
+        [TEXT] #73:383 template=EL-9b596f07
+        [TEXT] #73:384 template=EL-51aa1cfc
+        [TEXT] #73:385 template=EL-f5da2f08
+        [TEXT] #73:386 template=EL-9381d852
+        [TEXT] #73:387 template=EL-d20c65d3
+        [TEXT] #73:388 template=EL-4412b74b
+      [FRAME] #73:389 template=EL-93105b12
+        [TEXT] #73:390 template=EL-9d252206
+    [TEXT] #73:391 template=EL-2290419d
+    [FRAME] #73:393 layout={"mode":"row","padding":"18px 30px","justifyContent":"center","alignItems":"center","gap":"10px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":570,"y":996}} fills="dark red" effects=effect_a463446a borderRadius=20px
+      [TEXT] #73:394 template=EL-c8aded96
+    [IMAGE-SVG] #73:403 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":630.56,"y":967.92},"dimensions":{"width":33.39,"height":38.4}} strokes=fill_3cdb7ab8 strokeWeight=4px
+    [IMAGE-SVG] #73:413 template=EL-a8bb964c
+    [FRAME] #73:397 template=EL-a8a2d038
+      [TEXT] #73:398 template=EL-a13c5533
+    [FRAME] #73:399 layout={"mode":"row","padding":"18px 30px","justifyContent":"center","alignItems":"center","gap":"10px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":214,"y":703}} fills=fill_d688abde effects=effect_a463446a borderRadius=20px
+      [TEXT] #73:400 template=EL-b9628d83
+    [FRAME] #73:401 layout={"mode":"row","padding":"18px 30px","justifyContent":"center","alignItems":"center","gap":"10px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":1071,"y":817}} fills=fill_d688abde effects=effect_a463446a borderRadius=20px
+      [TEXT] #73:402 layout=layout_177c5efc fills=white textStyle=style_425a92c5 text="5+ форматов"
+    [RECTANGLE] "image 38" #73:455 template=EL-ac54e865
+    [FRAME] #73:414 template=EL-026ef03e
+      [TEXT] #73:415 template=EL-7f1e0a20
+    [FRAME] #73:395 template=EL-254167f5
+      [TEXT] #73:396 template=EL-126d450f
+    [IMAGE-SVG] #73:453 template=EL-403c2178
+  [FRAME] "Готовая концепция" #90:3 layout=layout_7e424e1f fills=["#061F55"]
+    [RECTANGLE] #125:253 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":-7,"y":4896},"dimensions":{"width":1449,"height":824}} fills=["#0A142E"]
+    [RECTANGLE] "image 42" #90:4 template=EL-b5157e6f
+    [TEXT] #90:5 template=EL-76b94772
+    [TEXT] #90:6 template=EL-e8557c38
+    [FRAME] #90:7 template=EL-619d723b
+      [IMAGE-SVG] #90:8 template=EL-e14f4809
+      [FRAME] #90:11 template=EL-f7c253f4
+        [TEXT] #90:12 template=EL-a4732f26
+        [TEXT] #90:13 template=EL-9b596f07
+        [TEXT] #90:14 template=EL-51aa1cfc
+        [TEXT] #90:15 template=EL-f5da2f08
+        [TEXT] #90:16 template=EL-9381d852
+        [TEXT] #90:17 template=EL-d20c65d3
+        [TEXT] #90:18 template=EL-4412b74b
+      [FRAME] #90:19 template=EL-93105b12
+        [TEXT] #90:20 template=EL-9d252206
+    [TEXT] #90:21 template=EL-2290419d
+    [IMAGE-SVG] #90:25 template=EL-a8bb964c
+    [FRAME] #90:26 template=EL-a8a2d038
+      [TEXT] #90:27 template=EL-a13c5533
+    [FRAME] #90:28 template=EL-5a2cbf54
+      [TEXT] #90:29 template=EL-c5f5db37
+    [FRAME] #90:30 template=EL-a185aa5c
+      [TEXT] #90:31 template=EL-d1bfc0c4
+    [RECTANGLE] "image 38" #90:32 template=EL-ac54e865
+    [FRAME] #90:33 template=EL-026ef03e
+      [TEXT] #90:34 template=EL-7f1e0a20
+    [FRAME] #90:35 template=EL-254167f5
+      [TEXT] #90:36 template=EL-126d450f
+    [IMAGE-SVG] #90:37 template=EL-403c2178
+    [FRAME] #90:22 template=EL-f5bd9cc4
+      [TEXT] #90:23 template=EL-c8aded96
+    [FRAME] #96:75 template=EL-f32fcda8
+      [FRAME] #124:194 layout={"mode":"row","alignItems":"center","gap":"21px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":115,"y":711}}
+        [FRAME] #91:41 template=EL-7118da3e
+          [TEXT] #96:66 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":40.5,"y":70.5},"dimensions":{"width":298,"height":152}} fills=white textStyle="aenik reg 32px" text="Ты 11 лет учил английский, но так и не получается говорить свободно."
+        [FRAME] #93:55 template=EL-7118da3e
+          [TEXT] #95:62 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":40.5,"y":70.5},"dimensions":{"width":237,"height":152}} fills=white textStyle="aenik reg 32px" text="У тебя больше пассивного изучения, чем активного."
+        [FRAME] #93:56 template=EL-7118da3e
+          [TEXT] #96:63 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":40,"y":70.5},"dimensions":{"width":266,"height":152}} fills=white textStyle="aenik reg 32px" text="Ты боишься, что совершишь ошибку и будешь смешно звучать."
+      [TEXT] #95:57 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":115,"y":613},"dimensions":{"width":488,"height":54}} fills=white textStyle="aenik bold 45px" text="У нас 100% метч, если"
+    [FRAME] #114:47 template=EL-76d2dc80
+    [FRAME] #114:51 template=EL-d242a092
+    [FRAME] #114:55 template=EL-8012b21a
+    [FRAME] #114:53 template=EL-b5b3b38f
+    [TEXT] #114:42 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":109,"y":2650},"dimensions":{"width":611,"height":54}} fills=white textStyle="aenik bold 45px" text="Занятия для любого уровня"
+    [IMAGE-SVG] #90:24 template=EL-9025bf16
+    [GROUP] #95:60 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":150,"y":1232},"dimensions":{"width":1088,"height":211}}
+      [TEXT] #93:47 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":0,"y":0},"dimensions":{"width":697,"height":48}} fills=white textStyle=style_74acb1d7 text="Учим не молчать. С нами вы сможете"
+      [GROUP] #95:58 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":76,"y":74},"dimensions":{"width":1012,"height":137}}
+        [TEXT] #93:48 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":0,"y":0},"dimensions":{"width":483,"height":96}} fills=white textStyle=style_23497337 text="Break the ice"
+        [TEXT] #93:49 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":649,"y":39},"dimensions":{"width":363,"height":48}} fills=white textStyle=style_74acb1d7 text="в любом разговоре"
+        [RECTANGLE] "image 43" #93:52 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":495,"y":0},"dimensions":{"width":142,"height":137}} fills=fill_1f3eddef
+    [RECTANGLE] "image 43" #165:119 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":401,"y":8627},"dimensions":{"width":324.94,"height":319.28}} fills=fill_1f3eddef
+    [GROUP] #124:195 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":109,"y":2310},"dimensions":{"width":1223,"height":169.5}}
+      [TEXT] #99:101 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":0,"y":0},"dimensions":{"width":122,"height":72}} fills=white textStyle=style_d6fc9178 text="Free"
+      [RECTANGLE] "image 49" #113:35 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":122,"y":15.5},"dimensions":{"width":113,"height":113}} fills=fill_466a25c1
+      [TEXT] #109:7 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":235,"y":92.5},"dimensions":{"width":305,"height":72}} fills=white textStyle=style_d6fc9178 text="3 meetings "
+      [RECTANGLE] "image 50" #113:38 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":540,"y":15.5},"dimensions":{"width":113,"height":113}} fills=fill_466a25c1
+      [TEXT] #110:8 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":653,"y":0},"dimensions":{"width":165,"height":72}} fills=white textStyle=style_d6fc9178 text="1 hour"
+      [RECTANGLE] "image 51" #113:39 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":818,"y":15.5},"dimensions":{"width":113,"height":113}} fills=fill_466a25c1
+      [TEXT] #113:9 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":931,"y":97.5},"dimensions":{"width":292,"height":72}} fills=white textStyle=style_d6fc9178 text="6-8 people"
+    [FRAME] #114:64 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":42,"y":3429},"dimensions":{"width":1358,"height":574}} borderRadius=20px
+      [RECTANGLE] "image 52" #114:66 template=EL-17af5f32
+      [TEXT] #114:63 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":89,"y":231},"dimensions":{"width":296,"height":145}} fills=white textStyle="aenik reg 24px" text="Научишься аргументировать, отстаивать свою точку зрения и мыслить критически"
+      [FRAME] #124:151 layout={"mode":"row","alignItems":"center","gap":"13px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":79,"y":466}}
+        [FRAME] #124:148 template=EL-3cfea2ad
+          [TEXT] #124:145 layout=layout_177c5efc fills=white textStyle="aenik reg 24px" text="Beginner"
+        [FRAME] #124:149 template=EL-3cfea2ad
+          [TEXT] #124:146 template=EL-ed26751a
+        [FRAME] #124:150 template=EL-3cfea2ad
+          [TEXT] #124:147 layout=layout_177c5efc fills=white textStyle="aenik reg 24px" text="Advanced"
+      [TEXT] #114:57 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":80,"y":60},"dimensions":{"width":369,"height":54}} fills=white textStyle="aenik bold 45px" text="Форматы встреч"
+      [FRAME] #114:68 layout={"mode":"column","alignItems":"center","gap":"25px","sizing":{"horizontal":"fixed","vertical":"hug"},"locationRelativeToParent":{"x":718,"y":169},"dimensions":{"width":366}}
+        [TEXT] #114:58 layout=layout_56d3c81c fills=white textStyle=style_5e2762ff text="Debates"
+        [FRAME] #114:62 layout={"mode":"row","padding":"20px 30px","justifyContent":"center","alignItems":"center","gap":"10px","sizing":{"horizontal":"fixed","vertical":"hug"},"dimensions":{"width":330}} fills=["rgba(209, 14, 30, 0.7)"] borderRadius=20px
+          [TEXT] #114:60 layout=layout_177c5efc fills=white textStyle=style_5fa7605b text="Casual talk"
+        [TEXT] #114:59 layout=layout_56d3c81c fills=white textStyle=style_5e2762ff text="Neo talk"
+      [FRAME] #124:188 layout={"mode":"column","alignItems":"center","gap":"22px","sizing":{"horizontal":"fixed","vertical":"hug"},"locationRelativeToParent":{"x":1169,"y":249},"dimensions":{"width":30}}
+        [ELLIPSE] #117:4 template=EL-2afe0618
+        [ELLIPSE] #117:5 layout={"mode":"none","sizing":{"horizontal":"fill","vertical":"fixed"},"dimensions":{"height":30}} fills=fill_658ab2fa
+        [ELLIPSE] #117:6 template=EL-2afe0618
+    [FRAME] #125:219 layout={"mode":"row","alignItems":"flex-end","gap":"12px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":112,"y":5027}}
+      [FRAME] #125:196 layout={"mode":"row","padding":"10px 20px","justifyContent":"center","alignItems":"center","gap":"10px","sizing":{"horizontal":"hug","vertical":"fixed"},"dimensions":{"height":54}} fills="dark blue" borderRadius=100px
+        [COMPONENT] "griddy-icons:time-filled" #125:207 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":35,"height":35}} fills=fill_97d170e1
+          [IMAGE-SVG] "Vector" #125:206 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":2.92,"y":2.92},"dimensions":{"width":29.17,"height":29.17}} fills=white
+        [TEXT] #125:197 layout=layout_177c5efc fills=white textStyle="aenik reg 24px" text="Время"
+        [IMAGE-SVG] "weui:arrow-outlined" #125:250 template=EL-70991613
+      [FRAME] #125:198 template=EL-e0fcb0ab
+        [COMPONENT] "ooui:level-three-ltr" #125:211 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":30,"height":30}} fills=fill_97d170e1
+          [IMAGE-SVG] "Vector" #125:210 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":0,"y":0},"dimensions":{"width":30,"height":30}} fills=white
+        [TEXT] #125:199 template=EL-ed26751a
+        [COMPONENT] "weui:arrow-outlined" #125:215 layout=layout_b7d6dd62 fills=fill_97d170e1
+          [IMAGE-SVG] "Vector" #125:214 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":3,"y":1},"dimensions":{"width":18,"height":11}} fills=white strokes=white strokeWeight=0.5px borderRadius="0px 0px 0px 0px"
+      [FRAME] #125:203 template=EL-e0fcb0ab
+        [TEXT] #125:204 layout=layout_177c5efc fills=white textStyle="aenik reg 24px" text="Debates"
+        [IMAGE-SVG] "weui:arrow-outlined" #125:216 template=EL-70991613
+    [TEXT] #117:3 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":121,"y":4205},"dimensions":{"width":481,"height":54}} fills=white textStyle="aenik bold 45px" text="Как присоединиться?"
+    [TEXT] #124:179 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":112,"y":4951},"dimensions":{"width":749,"height":54}} fills=white textStyle="aenik bold 45px" text="Расписание на ближайшие 7 дней"
+    [TEXT] #125:273 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":119,"y":5780},"dimensions":{"width":322,"height":54}} fills=white textStyle="aenik bold 45px" text="Наша команда"
+    [TEXT] #163:12 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":116,"y":6477},"dimensions":{"width":715,"height":54}} fills=white textStyle="aenik bold 45px" text="Истории успеха наших учеников"
+    [TEXT] #164:58 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":116,"y":7074},"dimensions":{"width":576,"height":54}} fills=white textStyle="aenik bold 45px" text="Мы ведем блог, вы знали?"
+    [TEXT] #165:110 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":113,"y":8414},"dimensions":{"width":613,"height":54}} fills=white textStyle="aenik bold 45px" text="Ждем вас в нашей команде"
+    [TEXT] #125:221 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":112,"y":5141},"dimensions":{"width":301,"height":38}} fills=white textStyle="aenik reg 32px" text="Сегодня, 06 Августа"
+    [RECTANGLE] #117:11 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":630,"y":4280},"dimensions":{"width":699,"height":461}} fills=["#828282"] borderRadius=20px
+    [FRAME] #124:186 layout={"mode":"column","alignItems":"stretch","gap":"15px","sizing":{"horizontal":"fixed","vertical":"hug"},"locationRelativeToParent":{"x":112,"y":4303},"dimensions":{"width":412}}
+      [FRAME] #123:104 layout={"mode":"column","alignSelf":"stretch","padding":"22px 31px","justifyContent":"center","alignItems":"stretch","gap":"10px","sizing":{"horizontal":"fill","vertical":"fixed"},"dimensions":{"height":130}} fills=blue effects={"boxShadow":"0px 4px 23px 0px rgba(26, 58, 114, 1)"} borderRadius=20px
+        [FRAME] #124:182 layout={"mode":"row","alignSelf":"stretch","alignItems":"center","gap":"25px","sizing":{"horizontal":"fill","vertical":"hug"}}
+          [FRAME] #124:119 layout=layout_7095204b fills=fill_658ab2fa effects={"boxShadow":"0px 0px 14.899999618530273px 0px rgba(147, 147, 147, 1)"} borderRadius=41.5px
+            [TEXT] #124:161 layout=layout_177c5efc fills="dark blue" textStyle=style_7ce5cc0b text="1"
+          [TEXT] #123:116 layout=layout_177c5efc fills=white textStyle="aenik reg 18px" text="Подпишитесь на наши соцсети"
+      [FRAME] #124:118 layout={"mode":"column","alignSelf":"stretch","padding":"38px 28px","justifyContent":"center","alignItems":"stretch","gap":"10px","sizing":{"horizontal":"fill","vertical":"fixed"},"dimensions":{"height":130}} fills=blue borderRadius=20px
+        [FRAME] #124:183 layout={"mode":"row","alignSelf":"stretch","alignItems":"center","gap":"27px","sizing":{"horizontal":"fill","vertical":"hug"}}
+          [FRAME] #124:163 template=EL-a3b39121
+            [TEXT] #124:164 layout=layout_177c5efc fills="dark blue" textStyle=style_7ce5cc0b text="2"
+          [TEXT] #124:121 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"hug"},"dimensions":{"width":216}} fills=white textStyle="aenik reg 18px" text="Мы добавим вас в канал с анонсами"
+      [FRAME] #124:124 layout={"mode":"column","alignSelf":"stretch","padding":"38px 29px","justifyContent":"center","alignItems":"stretch","gap":"10px","sizing":{"horizontal":"fill","vertical":"fixed"},"dimensions":{"height":130}} fills=blue borderRadius=20px
+        [FRAME] #124:184 layout={"mode":"row","alignSelf":"stretch","alignItems":"center","gap":"26px","sizing":{"horizontal":"fill","vertical":"hug"}}
+          [FRAME] #124:166 template=EL-a3b39121
+            [TEXT] #124:167 layout=layout_177c5efc fills="dark blue" textStyle=style_7ce5cc0b text="3"
+          [TEXT] #124:127 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"hug"},"dimensions":{"width":175}} fills=white textStyle="aenik reg 18px" text="Выбирайте формат и присоединяйтесь!"
+    [FRAME] #124:169 layout={"mode":"row","padding":"18px 30px","justifyContent":"center","alignItems":"center","gap":"10px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":577,"y":4303}} fills=fill_1c042216 effects=effect_a463446a borderRadius=20px
+      [TEXT] #124:170 layout=layout_177c5efc fills=white textStyle="aenik bold 24px" text="С преподавателем"
+    [FRAME] #124:174 layout={"mode":"row","padding":"18px 30px","justifyContent":"center","alignItems":"center","gap":"10px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":1142,"y":4642}} fills=fill_1c042216 effects=effect_a463446a borderRadius=20px
+      [TEXT] #124:175 layout=layout_177c5efc fills=white textStyle="aenik bold 24px" text="Много практики"
+    [FRAME] #125:234 layout={"mode":"row","alignItems":"center","gap":"20px","sizing":{"horizontal":"fixed","vertical":"hug"},"locationRelativeToParent":{"x":116,"y":5197},"dimensions":{"width":1213}}
+      [GROUP] #125:227 template=EL-21bac64e
+        [TEXT] #125:222 template=EL-aa61ded8
+        [RECTANGLE] #125:223 template=EL-3a8bc32d
+        [FRAME] #125:226 template=EL-e12f1a5b
+          [ELLIPSE] #125:225 template=EL-4c2b87a0
+          [TEXT] #125:224 template=EL-28afbf2f
+      [GROUP] #125:228 template=EL-21bac64e
+        [TEXT] #125:229 template=EL-aa61ded8
+        [RECTANGLE] #125:230 template=EL-3a8bc32d
+        [FRAME] #125:231 template=EL-e12f1a5b
+          [ELLIPSE] #125:232 template=EL-4c2b87a0
+          [TEXT] #125:233 template=EL-28afbf2f
+      [GROUP] #125:235 template=EL-21bac64e
+        [TEXT] #125:236 template=EL-aa61ded8
+        [RECTANGLE] #125:237 template=EL-3a8bc32d
+        [FRAME] #125:238 template=EL-e12f1a5b
+          [ELLIPSE] #125:239 template=EL-4c2b87a0
+          [TEXT] #125:240 template=EL-28afbf2f
+      [GROUP] #125:242 template=EL-21bac64e
+        [TEXT] #125:243 template=EL-aa61ded8
+        [RECTANGLE] #125:244 template=EL-3a8bc32d
+        [FRAME] #125:245 template=EL-e12f1a5b
+          [ELLIPSE] #125:246 template=EL-4c2b87a0
+          [TEXT] #125:247 template=EL-28afbf2f
+    [FRAME] #125:278 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":116,"y":5878},"dimensions":{"width":327,"height":460}} fills="dark red" borderRadius=20px
+      [FRAME] #125:288 template=EL-13560458
+        [FRAME] #125:280 template=EL-ae4ab1c9
+          [TEXT] #125:282 template=EL-29b4768e
+        [FRAME] #125:286 template=EL-ae4ab1c9
+          [TEXT] #125:287 template=EL-6f2cae71
+      [TEXT] #125:332 template=EL-84f69f15
+      [TEXT] #125:336 template=EL-7f80c979
+      [RECTANGLE] #125:338 template=EL-900a831b
+    [FRAME] #125:368 layout={"mode":"row","alignItems":"center","gap":"25px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":116,"y":5878}}
+      [FRAME] #125:340 template=EL-6f66152a
+        [FRAME] #125:341 template=EL-13560458
+          [FRAME] #125:342 template=EL-ae4ab1c9
+            [TEXT] #125:343 template=EL-29b4768e
+          [FRAME] #125:344 template=EL-ae4ab1c9
+            [TEXT] #125:345 template=EL-6f2cae71
+        [TEXT] #125:346 template=EL-84f69f15
+        [TEXT] #125:347 template=EL-7f80c979
+        [RECTANGLE] #125:348 template=EL-900a831b
+      [FRAME] #125:295 template=EL-b33c8f03
+        [FRAME] #125:296 template=EL-13560458
+          [FRAME] #125:297 template=EL-ae4ab1c9
+            [TEXT] #125:298 template=EL-29b4768e
+          [FRAME] #125:299 template=EL-ae4ab1c9
+            [TEXT] #125:300 template=EL-6f2cae71
+        [TEXT] #125:328 template=EL-ee618ce1
+        [RECTANGLE] #125:330 template=EL-900a831b
+        [TEXT] #125:334 template=EL-d0ad7bdf
+      [FRAME] #125:350 template=EL-6f66152a
+        [FRAME] #125:351 template=EL-13560458
+          [FRAME] #125:352 template=EL-ae4ab1c9
+            [TEXT] #125:353 template=EL-29b4768e
+          [FRAME] #125:354 template=EL-ae4ab1c9
+            [TEXT] #125:355 template=EL-6f2cae71
+        [TEXT] #125:356 template=EL-84f69f15
+        [TEXT] #125:357 template=EL-7f80c979
+        [RECTANGLE] #125:358 template=EL-900a831b
+      [FRAME] #125:359 template=EL-b33c8f03
+        [FRAME] #125:360 template=EL-13560458
+          [FRAME] #125:361 template=EL-ae4ab1c9
+            [TEXT] #125:362 template=EL-29b4768e
+          [FRAME] #125:363 template=EL-ae4ab1c9
+            [TEXT] #125:364 template=EL-6f2cae71
+        [TEXT] #125:365 template=EL-ee618ce1
+        [RECTANGLE] #125:366 template=EL-900a831b
+        [TEXT] #125:367 template=EL-d0ad7bdf
+    [TEXT] #165:121 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":113,"y":8673},"dimensions":{"width":322,"height":240}} fills=white textStyle=style_5fa7605b text="Fill in the form and we will contact you!"
+    [TEXT] #166:129 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":1199,"y":8946},"dimensions":{"width":131,"height":60}} fills=white textStyle={"fontFamily":"The Silver Editorial","fontStyle":"Regular","fontWeight":400,"fontSize":50,"lineHeight":"1.2em","textAlignHorizontal":"LEFT","textAlignVertical":"TOP","textDecoration":"UNDERLINE"} text="Apply"
+    [FRAME] #125:321 layout={"mode":"row","alignItems":"center","gap":"16px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":1240,"y":5780}}
+      [FRAME] #125:318 template=EL-2dd6b2ae
+        [IMAGE-SVG] "weui:arrow-outlined" #125:319 template=EL-3baf7c02
+      [FRAME] #125:313 template=EL-2dd6b2ae
+        [IMAGE-SVG] "weui:arrow-outlined" #125:315 template=EL-3baf7c02
+    [FRAME] #164:27 layout={"mode":"row","alignItems":"center","gap":"27px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":116,"y":6591}}
+      [ELLIPSE] #164:14 template=EL-876b30b0
+      [FRAME] #164:15 template=EL-e5affc9b
+        [TEXT] #164:19 template=EL-7c3bd551
+        [TEXT] #164:20 template=EL-92f63f45
+        [TEXT] #164:23 template=EL-01dde50d
+        [TEXT] #164:21 template=EL-1d80579d
+    [TEXT] #164:61 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":1017,"y":7174},"dimensions":{"width":312,"height":190}} fills=white textStyle="aenik reg 32px" text="ИИ может помочь вам готовиться к экзаменам. Говорим о том, о чем даже мы не знали"
+    [FRAME] #164:69 layout={"mode":"row","alignItems":"center","gap":"24px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":967,"y":6913}}
+      [TEXT] #164:42 layout=layout_177c5efc fills=fill_08341496 textStyle=style_a56576b8 text="СМОТРЕТЬ ВСЕ ОТЗЫВЫ"
+      [FRAME] #164:35 layout={"mode":"row","alignItems":"center","gap":"16px","sizing":{"horizontal":"hug","vertical":"hug"}}
+        [FRAME] #164:36 template=EL-2dd6b2ae
+          [IMAGE-SVG] "weui:arrow-outlined" #164:37 template=EL-3baf7c02
+        [FRAME] #164:38 template=EL-2dd6b2ae
+          [IMAGE-SVG] "weui:arrow-outlined" #164:39 template=EL-3baf7c02
+    [FRAME] #164:71 layout={"mode":"row","padding":"15px 20px","justifyContent":"center","alignItems":"center","gap":"10px","sizing":{"horizontal":"fixed","vertical":"fixed"},"locationRelativeToParent":{"x":1233,"y":7522},"dimensions":{"width":100,"height":100}} strokes=white strokeWeight=2px borderRadius=100px
+      [COMPONENT] "bitcoin-icons:arrow-up-outline" #164:76 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":60,"height":60}} fills=fill_97d170e1
+        [IMAGE-SVG] "Vector" #164:75 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":-2.51,"y":-3.1},"dimensions":{"width":66.51,"height":66.51}} strokes=white strokeWeight=3px
+    [FRAME] #164:88 layout={"mode":"row","alignItems":"center","gap":"10px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":113,"y":7697}}
+      [FRAME] #164:78 template=EL-5db93b45
+        [TEXT] #164:80 layout=layout_177c5efc fills=white textStyle=style_9b0ed5eb text="vocabulary"
+      [FRAME] #164:82 template=EL-5db93b45
+        [TEXT] #164:83 layout=layout_177c5efc fills=white textStyle=style_9b0ed5eb text="speaking"
+      [FRAME] #164:84 template=EL-5db93b45
+        [TEXT] #164:85 layout=layout_177c5efc fills=white textStyle=style_9b0ed5eb text="travelling"
+      [FRAME] #164:86 template=EL-5db93b45
+        [TEXT] #164:87 layout=layout_177c5efc fills=white textStyle=style_9b0ed5eb text="events"
+    [FRAME] #164:28 layout={"mode":"row","alignItems":"center","gap":"27px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":1057,"y":6591}}
+      [ELLIPSE] #164:29 template=EL-876b30b0
+      [FRAME] #164:30 template=EL-e5affc9b
+        [TEXT] #164:31 template=EL-7c3bd551
+        [TEXT] #164:32 template=EL-92f63f45
+        [TEXT] #164:33 template=EL-01dde50d
+        [TEXT] #164:34 template=EL-1d80579d
+    [FRAME] #164:59 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":113,"y":7174},"dimensions":{"width":865,"height":448}} fills=fill_658ab2fa borderRadius=20px
+    [FRAME] #164:109 layout={"mode":"row","alignItems":"center","gap":"39px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":113,"y":7808}}
+      [FRAME] #164:96 template=EL-29453d14
+        [FRAME] #164:89 template=EL-3df56e5e
+        [FRAME] #164:95 template=EL-286f649c
+          [TEXT] #164:93 template=EL-03c951a2
+          [TEXT] #164:94 template=EL-79bf13b8
+      [FRAME] #164:97 template=EL-29453d14
+        [FRAME] #164:98 template=EL-3df56e5e
+        [FRAME] #164:99 template=EL-286f649c
+          [TEXT] #164:100 template=EL-03c951a2
+          [TEXT] #164:101 template=EL-79bf13b8
+      [FRAME] #164:103 template=EL-29453d14
+        [FRAME] #164:104 template=EL-3df56e5e
+        [FRAME] #164:105 template=EL-286f649c
+          [TEXT] #164:106 template=EL-03c951a2
+          [TEXT] #164:107 template=EL-79bf13b8
+    [TEXT] #165:113 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":113,"y":8530},"dimensions":{"width":143,"height":38}} fills=white textStyle="aenik reg 32px" text="Мы ищем"
+    [FRAME] #165:118 layout={"mode":"row","alignItems":"center","gap":"13px","sizing":{"horizontal":"fixed","vertical":"hug"},"locationRelativeToParent":{"x":292,"y":8518},"dimensions":{"width":1037}}
+      [FRAME] #165:111 template=EL-93efecd6
+        [TEXT] #165:112 template=EL-63a95a6e
+      [FRAME] #165:114 template=EL-93efecd6
+        [TEXT] #165:115 template=EL-63a95a6e
+      [FRAME] #165:116 template=EL-93efecd6
+        [TEXT] #165:117 template=EL-63a95a6e
+    [FRAME] #165:125 layout={"mode":"column","alignItems":"stretch","gap":"17px","sizing":{"horizontal":"fixed","vertical":"hug"},"locationRelativeToParent":{"x":754,"y":8673},"dimensions":{"width":575}}
+      [TEXT] #165:122 layout=layout_56d3c81c fills=white textStyle="aenik bold 24px" text="Ваше имя"
+      [FRAME] #165:123 template=EL-40efd93d
+    [FRAME] #165:126 layout={"mode":"column","alignItems":"stretch","gap":"17px","sizing":{"horizontal":"fixed","vertical":"hug"},"locationRelativeToParent":{"x":754,"y":8806},"dimensions":{"width":575}}
+      [TEXT] #165:127 layout=layout_56d3c81c fills=white textStyle="aenik bold 24px" text="Телеграмм"
+      [FRAME] #165:128 template=EL-40efd93d
+    [FRAME] #164:66 layout={"mode":"row","alignItems":"center","gap":"15px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":1017,"y":7572}}
+      [ELLIPSE] #164:63 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":49,"height":49}} fills=fill_fef61db7
+      [TEXT] #164:64 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"hug"},"dimensions":{"width":101}} fills=white textStyle="aenik bold 18px" text="Нина Радищева"
+  [FRAME] "Готовая концепция" #123:23 template=EL-d24abc42
+    [RECTANGLE] "image 42" #123:24 template=EL-b5157e6f
+    [TEXT] #123:25 template=EL-76b94772
+    [TEXT] #123:26 template=EL-e8557c38
+    [FRAME] #123:27 template=EL-619d723b
+      [IMAGE-SVG] #123:28 template=EL-e14f4809
+      [FRAME] #123:31 template=EL-f7c253f4
+        [TEXT] #123:32 template=EL-a4732f26
+        [TEXT] #123:33 template=EL-9b596f07
+        [TEXT] #123:34 template=EL-51aa1cfc
+        [TEXT] #123:35 template=EL-f5da2f08
+        [TEXT] #123:36 template=EL-9381d852
+        [TEXT] #123:37 template=EL-d20c65d3
+        [TEXT] #123:38 template=EL-4412b74b
+      [FRAME] #123:39 template=EL-93105b12
+        [TEXT] #123:40 template=EL-9d252206
+    [TEXT] #123:41 template=EL-2290419d
+    [IMAGE-SVG] #123:42 template=EL-a8bb964c
+    [FRAME] #123:43 template=EL-a8a2d038
+      [TEXT] #123:44 template=EL-a13c5533
+    [FRAME] #123:45 template=EL-5a2cbf54
+      [TEXT] #123:46 template=EL-c5f5db37
+    [FRAME] #123:47 template=EL-a185aa5c
+      [TEXT] #123:48 template=EL-d1bfc0c4
+    [RECTANGLE] "image 38" #123:49 template=EL-ac54e865
+    [FRAME] #123:50 template=EL-026ef03e
+      [TEXT] #123:51 template=EL-7f1e0a20
+    [FRAME] #123:52 template=EL-254167f5
+      [TEXT] #123:53 template=EL-126d450f
+    [IMAGE-SVG] #123:54 template=EL-403c2178
+    [FRAME] #123:55 template=EL-f5bd9cc4
+      [TEXT] #123:56 template=EL-c8aded96
+    [FRAME] #123:57 template=EL-f32fcda8
+      [FRAME] #123:58 layout={"mode":"row","alignItems":"center","gap":"59px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":115,"y":723}}
+        [FRAME] #123:59 template=EL-21a264d8
+          [TEXT] #123:60 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":35,"y":64},"dimensions":{"width":302,"height":152}} fills=white textStyle="aenik reg 32px" text="Ты 11 лет учил английский, но так и не получается говорить свободно."
+        [FRAME] #123:61 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":364,"height":279}} fills=fill_e20bf8a0 effects=effect_73cba297 borderRadius=20px
+          [TEXT] #123:62 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":35,"y":64},"dimensions":{"width":252,"height":152}} fills=white textStyle="aenik reg 32px" text="У тебя больше пассивного изучения, чем активного."
+        [FRAME] #123:63 template=EL-21a264d8
+          [TEXT] #123:64 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":35,"y":64},"dimensions":{"width":283,"height":152}} fills=white textStyle="aenik reg 32px" text="Ты боишься, что совершишь ошибку и будешь смешно звучать."
+      [TEXT] #123:65 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":115,"y":613},"dimensions":{"width":521,"height":60}} fills=white textStyle=style_3c1f8c23 text="У нас 100% метч, если"
+    [FRAME] #123:66 template=EL-76d2dc80
+    [FRAME] #123:67 template=EL-d242a092
+    [FRAME] #123:68 template=EL-8012b21a
+    [FRAME] #123:69 template=EL-b5b3b38f
+    [TEXT] #123:70 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":109,"y":2650},"dimensions":{"width":648,"height":60}} fills=black textStyle=style_3c1f8c23 text="Занятия для любого уровня"
+    [IMAGE-SVG] #123:71 template=EL-9025bf16
+    [GROUP] #123:72 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":117,"y":1226},"dimensions":{"width":1212,"height":217}}
+      [TEXT] #123:73 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":0,"y":0},"dimensions":{"width":871,"height":60}} fills=white textStyle="aenik reg 50px" text="Учим не молчать. С нами вы сможете"
+      [GROUP] #123:74 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":33,"y":80},"dimensions":{"width":1179,"height":137}}
+        [TEXT] #123:75 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":0,"y":0},"dimensions":{"width":544,"height":108}} fills=white textStyle=style_90d9ba3c text="Break the ice"
+        [TEXT] #123:76 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":725,"y":39},"dimensions":{"width":454,"height":60}} fills=white textStyle="aenik reg 50px" text="в любом разговоре"
+        [RECTANGLE] "image 43" #123:77 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":571,"y":0},"dimensions":{"width":142,"height":137}} fills=fill_1f3eddef
+    [TEXT] #123:78 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":109,"y":2310},"dimensions":{"width":122,"height":72}} fills=black textStyle=style_d6fc9178 text="Free"
+    [RECTANGLE] "image 49" #123:79 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":231,"y":2325.5},"dimensions":{"width":113,"height":113}} fills=fill_466a25c1
+    [TEXT] #123:80 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":344,"y":2402.5},"dimensions":{"width":305,"height":72}} fills=black textStyle=style_d6fc9178 text="3 meetings "
+    [RECTANGLE] "image 50" #123:81 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":649,"y":2325.5},"dimensions":{"width":113,"height":113}} fills=fill_466a25c1
+    [TEXT] #123:82 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":762,"y":2310},"dimensions":{"width":165,"height":72}} fills=black textStyle=style_d6fc9178 text="1 hour"
+    [RECTANGLE] "image 51" #123:83 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":927,"y":2325.5},"dimensions":{"width":113,"height":113}} fills=fill_466a25c1
+    [TEXT] #123:84 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":1040,"y":2407.5},"dimensions":{"width":292,"height":72}} fills=black textStyle=style_d6fc9178 text="6-8 people"
+    [FRAME] #123:85 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":42,"y":3429},"dimensions":{"width":1358,"height":652}} borderRadius=20px
+      [RECTANGLE] "image 52" #123:86 template=EL-17af5f32
+      [TEXT] #123:87 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":89,"y":261},"dimensions":{"width":359,"height":190}} fills=white textStyle="aenik reg 32px" text="Научишься аргументировать, отстаивать свою точку зрения и мыслить критически"
+      [TEXT] #123:88 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":79,"y":77},"dimensions":{"width":394,"height":60}} fills=white textStyle=style_3c1f8c23 text="Форматы встреч"
+      [FRAME] #123:89 layout={"mode":"column","alignItems":"stretch","gap":"25px","sizing":{"horizontal":"fixed","vertical":"hug"},"locationRelativeToParent":{"x":718,"y":187},"dimensions":{"width":366}}
+        [TEXT] #123:90 layout=layout_56d3c81c fills=white textStyle=style_9c31655d text="Debates"
+        [FRAME] #123:91 layout={"mode":"row","alignSelf":"stretch","padding":"20px 30px","justifyContent":"center","alignItems":"center","gap":"10px","sizing":{"horizontal":"fill","vertical":"hug"}} fills=["#215382"] borderRadius=20px
+          [TEXT] #123:92 layout=layout_177c5efc fills=white textStyle=style_d6fc9178 text="Casual talk"
+        [TEXT] #123:93 layout=layout_56d3c81c fills=white textStyle=style_9c31655d text="Neo talk"
+      [ELLIPSE] #123:94 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":1175,"y":286},"dimensions":{"width":18,"height":18}} fills=fill_658ab2fa
+      [ELLIPSE] #123:95 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":1169,"y":326},"dimensions":{"width":30,"height":30}} fills=fill_658ab2fa
+      [ELLIPSE] #123:96 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":1175,"y":378},"dimensions":{"width":18,"height":18}} fills=fill_658ab2fa
+    [TEXT] #123:97 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":121,"y":4181},"dimensions":{"width":541,"height":60}} fills=black textStyle=style_3c1f8c23 text="Как проходят встречи?"
+    [RECTANGLE] #123:98 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":566,"y":4327},"dimensions":{"width":834,"height":461}} fills=fill_fef61db7 borderRadius=20px
+    [ELLIPSE] #123:99 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":125,"y":4516},"dimensions":{"width":83,"height":83}} fills="dark blue"
+    [ELLIPSE] #123:100 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":125,"y":4646},"dimensions":{"width":83,"height":83}} fills="dark blue"
+    [FRAME] #123:101 layout={"mode":"row","padding":"18px","justifyContent":"center","alignItems":"center","gap":"10px","sizing":{"horizontal":"fixed","vertical":"fixed"},"locationRelativeToParent":{"x":125,"y":4386},"dimensions":{"width":83,"height":83}} fills="dark blue" borderRadius=41.5px
+      [IMAGE-SVG] "ic:outline-tiktok" #123:102 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":37,"height":37}} fills=fill_97d170e1 componentId=123:21
+  [TEXT] #114:48 layout={"mode":"none","sizing":{},"dimensions":{"width":302,"height":38}} fills=white textStyle="aenik reg 32px" text="Для А2"
+  [RECTANGLE] "image 49" #113:33 layout={"mode":"none","sizing":{},"dimensions":{"width":305,"height":305}} fills=fill_466a25c1
+  [RECTANGLE] "image 48" #113:30 layout={"mode":"none","sizing":{},"dimensions":{"width":404,"height":388}} fills=[{"type":"IMAGE","imageRef":"d5525872cf56a5808a04f400e4e9046551cfb4df","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [RECTANGLE] "image 47" #113:24 layout={"mode":"none","sizing":{},"dimensions":{"width":596,"height":900}} fills=[{"type":"IMAGE","imageRef":"17c8083955a5b9e099f417dfe5d0db153f1f157a","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [RECTANGLE] "image 46" #113:21 layout={"mode":"none","sizing":{},"dimensions":{"width":382,"height":463}} fills=[{"type":"IMAGE","imageRef":"f6a2e6395e842298bead223107112ce30131377a","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [RECTANGLE] "image 45" #113:18 layout={"mode":"none","sizing":{},"dimensions":{"width":198,"height":352}} fills=[{"type":"IMAGE","imageRef":"d9b3cfbfc2781ba74e30bb42381ed9cc295be650","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [RECTANGLE] "image 44" #113:15 layout={"mode":"none","sizing":{},"dimensions":{"width":320,"height":313}} fills=[{"type":"IMAGE","imageRef":"0c888ca088c74922f0c6f7cbc83c6a0ea82cca9a","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [FRAME] #91:39 layout={"mode":"none","sizing":{},"dimensions":{"width":341,"height":373}} fills=fill_5222c42a effects=effect_73cba297 borderRadius=20px
+  [FRAME] #91:44 template=EL-e3d6e8b8
+  [FRAME] #91:45 template=EL-e3d6e8b8
+  [FRAME] #91:42 layout=layout_2236a605 fills=fill_d688abde effects=effect_a463446a borderRadius=20px
+    [TEXT] #91:43 template=EL-b9628d83
+  [RECTANGLE] "image 41" #84:469 layout={"mode":"none","sizing":{},"dimensions":{"width":1442,"height":2164}} fills=fill_c21591c2
+  [RECTANGLE] "image 40" #84:461 layout={"mode":"none","sizing":{},"dimensions":{"width":1204,"height":2004}} fills=[{"type":"IMAGE","imageRef":"3c1119b6f27030ba33c72730394a6af67b375949","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [IMAGE-SVG] "si:flag-line" #73:416 layout=layout_906e6468 componentId=65:271
+  [IMAGE-SVG] #73:423 layout={"mode":"none","sizing":{},"dimensions":{"width":707.38,"height":552.96}} strokes=fill_3cdb7ab8 strokeWeight=7px
+  [IMAGE-SVG] #66:345 layout={"mode":"none","sizing":{},"dimensions":{"width":884.4,"height":757.75}} strokes=fill_3cdb7ab8 strokeWeight=6px
+  [FRAME] "Готовая концепция" #65:290 template=EL-d24abc42
+    [RECTANGLE] "image 37" #66:350 template=EL-5d5f1799
+    [TEXT] #65:324 template=EL-264fdee5
+    [TEXT] #65:325 template=EL-15f9ed40
+    [FRAME] #65:326 template=EL-619d723b
+      [IMAGE-SVG] #65:327 template=EL-e14f4809
+      [FRAME] #65:330 template=EL-f7c253f4
+        [TEXT] #65:331 template=EL-83d2d6d2
+        [TEXT] #65:332 template=EL-12315673
+        [TEXT] #65:333 template=EL-881c3ccc
+        [TEXT] #65:334 template=EL-1147d5df
+        [TEXT] #65:335 template=EL-7b48027b
+        [TEXT] #65:336 template=EL-fcc2473f
+        [TEXT] #65:337 template=EL-09a52a33
+      [FRAME] #65:338 template=EL-5f631ce1
+        [TEXT] #65:339 template=EL-29e10c08
+    [TEXT] #65:322 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":359,"y":598},"dimensions":{"width":724,"height":114}} fills=fill_34dc0314 textStyle=style_9e1ca145 text="Бесплатный спикинг-клуб, где каждый может преодолеть языковой барьер. \\nГлавное просто начать!"
+  [FRAME] "Готовая концепция" #66:352 template=EL-d24abc42
+    [RECTANGLE] "image 37" #66:353 template=EL-5d5f1799
+    [TEXT] #66:354 template=EL-264fdee5
+    [TEXT] #66:355 template=EL-15f9ed40
+    [FRAME] #66:356 template=EL-619d723b
+      [IMAGE-SVG] #66:357 template=EL-e14f4809
+      [FRAME] #66:360 template=EL-f7c253f4
+        [TEXT] #66:361 template=EL-83d2d6d2
+        [TEXT] #66:362 template=EL-12315673
+        [TEXT] #66:363 template=EL-881c3ccc
+        [TEXT] #66:364 template=EL-1147d5df
+        [TEXT] #66:365 template=EL-7b48027b
+        [TEXT] #66:366 template=EL-fcc2473f
+        [TEXT] #66:367 template=EL-09a52a33
+      [FRAME] #66:368 template=EL-5f631ce1
+        [TEXT] #66:369 template=EL-29e10c08
+    [TEXT] #66:370 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":343,"y":611},"dimensions":{"width":836,"height":114}} fills=fill_34dc0314 textStyle=style_9e1ca145 text="Бесплатный спикинг-клуб, где подростки и студенты могут преодолеть языковой барьер. \\nГлавное просто начать!"
+  [GROUP] #65:264 layout={"mode":"none","sizing":{},"dimensions":{"width":703,"height":567}} borderRadius=20px
+    [RECTANGLE] "image 32" #65:258 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":68,"y":0},"dimensions":{"width":574,"height":567}} fills=fill_f8449a1b borderRadius=20px
+    [FRAME] #65:259 layout={"mode":"row","padding":"18px 30px","justifyContent":"center","alignItems":"center","gap":"10px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":487,"y":382}} fills=fill_1c042216 effects=effect_a463446a borderRadius=20px
+      [TEXT] #65:260 template=EL-ed303135
+    [FRAME] #65:261 layout={"mode":"row","padding":"18px 30px","justifyContent":"center","alignItems":"center","gap":"10px","sizing":{"horizontal":"hug","vertical":"hug"},"locationRelativeToParent":{"x":0,"y":41}} fills=fill_1c042216 effects=effect_a463446a borderRadius=20px
+      [TEXT] #65:262 template=EL-12160cf2
+  [RECTANGLE] "image 32" #61:90 layout={"mode":"none","sizing":{},"dimensions":{"width":500,"height":366}} fills=fill_f8449a1b
+  [RECTANGLE] #57:54 layout={"mode":"none","sizing":{},"dimensions":{"width":601,"height":585}} fills=fill_fef61db7 borderRadius=10px
+  [RECTANGLE] "image 29" #61:81 layout={"mode":"none","sizing":{},"dimensions":{"width":394,"height":492}} fills=[{"type":"IMAGE","imageRef":"062f6970d03a062c66cfae82d008a2250d181e6f","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [RECTANGLE] "image 26" #57:63 layout={"mode":"none","sizing":{},"dimensions":{"width":652,"height":1303}} fills=[{"type":"IMAGE","imageRef":"420452e4280958950de14bc78c2f32df4e29908e","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [RECTANGLE] "image 24" #51:37 layout={"mode":"none","sizing":{},"dimensions":{"width":284,"height":261}} fills=[{"type":"IMAGE","imageRef":"7b64c72c40b8ade233873d1db91485c12141a6ec","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [RECTANGLE] "image 23" #51:34 layout={"mode":"none","sizing":{},"dimensions":{"width":267,"height":262}} fills=[{"type":"IMAGE","imageRef":"df48bb0ee498a0dca7e73f8e3741f42e2e768752","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [RECTANGLE] "image 22" #51:31 layout={"mode":"none","sizing":{},"dimensions":{"width":585,"height":245}} fills=[{"type":"IMAGE","imageRef":"f284512a5b3641f9eefb05db7c9d6e481484ff5d","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [RECTANGLE] "image 21" #51:28 layout={"mode":"none","sizing":{},"dimensions":{"width":441,"height":230}} fills=[{"type":"IMAGE","imageRef":"ba909bd2323671547f58b6d9f8d91bdfaab4a38b","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [RECTANGLE] "image 20" #47:25 layout={"mode":"none","sizing":{},"dimensions":{"width":457,"height":279}} fills=[{"type":"IMAGE","imageRef":"124a5e197679c8edcb8bc00dd66058a57228b17a","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [RECTANGLE] "image 18" #47:3 layout={"mode":"none","sizing":{},"dimensions":{"width":605,"height":675}} fills=[{"type":"IMAGE","imageRef":"b268d3e5a65db02264ec3005a102f6200192f564","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [FRAME] "Главная" #2:582 layout={"mode":"none","sizing":{},"dimensions":{"width":374,"height":366}} fills=fill_658ab2fa
+    [TEXT] #2:581 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":56,"y":41},"dimensions":{"width":297,"height":286}} fills=fill_34dc0314 textStyle=style_4106b36b text="  - 01 Hero + два CTA\\n  - 02 Цифры клуба\\n  - 03 Для кого / уровни\\n  - 04 Как проходит встреча\\n  - 05 Форматы встреч\\n  - 06 Ближайшие встречи\\n  - 07 Спикеры \\(карусель\\)\\n  - 08 Отзывы \\(видео отзывы, истории до/после\\)\\n  - 09 Блог \\(3 статьи\\)\\n  - 10 Telegram mini app\\n  - 11 FAQ \\(превью\\)\\n  - 12 Финальный CTA"
+    [IMAGE-SVG] #52:41 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":88.16,"y":72.37},"dimensions":{"width":129.87,"height":0.98}} strokes=["#D10E1E"] strokeWeight=2px
+  [FRAME] "Расписание" #2:583 template=EL-26567946
+    [TEXT] #2:584 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":51,"y":33},"dimensions":{"width":271,"height":154}} fills=fill_34dc0314 textStyle=style_4106b36b text="  - 01 Шапка + таймзона\\n  - 02 Фильтры и вид\\n  - 03 Лента встреч по дням\\n  - 04 Как подключиться\\n  - 05 Напоминания в TG\\n  - 06 Правила встреч\\n  - 07 CTA «предложи формат»"
+  [TEXT] #4:14 layout={"mode":"none","sizing":{},"dimensions":{"width":151,"height":31}} fills=fill_658ab2fa textStyle={"fontFamily":"Wix Madefor Display","fontStyle":"Bold","fontWeight":700,"fontSize":26,"lineHeight":"1.2em","textAlignHorizontal":"LEFT","textAlignVertical":"TOP"} text="НА ПОТОМ"
+  [FRAME] "Карточка встречи" #2:585 template=EL-26567946
+    [TEXT] #2:586 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":52,"y":37},"dimensions":{"width":246,"height":154}} fills=fill_34dc0314 textStyle=style_4106b36b text="  - 01 Крошки + тема\\n  - 02 Мета-панель + запись\\n  - 03 О чём говорим\\n  - 04 Ведущий\\n  - 05 Полезная лексика\\n  - 06 Кто уже идёт\\n  - 07 Похожие встречи"
+  [FRAME] "Блог" #2:587 template=EL-26567946
+    [TEXT] #2:588 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":56,"y":33},"dimensions":{"width":217,"height":154}} fills=fill_34dc0314 textStyle=style_4106b36b text="  - 01 Hero + поиск\\n  - 02 Рубрики\\n  - 03 Featured статьи\\n  - 04 Фильтр по уровню\\n  - 05 Сетка + пагинация\\n  - 06 Подписка\\n  - 07 CTA на встречу"
+  [FRAME] "Спикеры и команда" #3:2 layout={"mode":"none","sizing":{},"dimensions":{"width":374,"height":198}} fills=fill_658ab2fa
+    [TEXT] #3:3 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":56,"y":33},"dimensions":{"width":197,"height":132}} fills=fill_34dc0314 textStyle=style_4106b36b text="  - 01 Hero «кто ведёт»\\n  - 02 Табы-якоря\\n  - 03 Сетка спикеров\\n  - 04 Core team\\n  - 05 Стать спикером\\n  - 06 CTA в чат"
+  [FRAME] "О клубе" #3:6 layout={"mode":"none","sizing":{},"dimensions":{"width":374,"height":264}} fills=fill_658ab2fa
+    [TEXT] #3:7 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":56,"y":33},"dimensions":{"width":232,"height":198}} fills=fill_34dc0314 textStyle=style_4106b36b text="  - 01 Hero-манифест\\n  - 02 История\\n  - 03 Ценности и правила\\n  - 04 Цифры и рост\\n  - 05 Что даёт участие\\n  - 06 Команда \\(превью\\)\\n  - 07 Почему бесплатно\\n  - 08 Партнёры и медиа\\n  - 09 CTA + поддержать"
+  [FRAME] "Отзывы" #3:4 template=EL-65f0920d
+    [TEXT] #3:5 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":56,"y":33},"dimensions":{"width":223,"height":154}} fills=fill_34dc0314 textStyle=style_4106b36b text="  - 01 Hero + агрегат\\n  - 02 Фильтры\\n  - 03 Сетка отзывов\\n  - 04 Видео-отзывы\\n  - 05 Истории до / после\\n  - 06 Форма отзыва\\n  - 07 CTA"
+  [FRAME] "В команду" #3:8 template=EL-65f0920d
+    [TEXT] #3:9 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":56,"y":33},"dimensions":{"width":204,"height":154}} fills=fill_34dc0314 textStyle=style_4106b36b text="  - 01 Hero\\n  - 02 Открытые роли\\n  - 03 Что даём взамен\\n  - 04 Как мы работаем\\n  - 05 Процесс отбора\\n  - 06 Форма отклика\\n  - 07 Уже в команде"
+  [FRAME] "Служебные" #3:10 template=EL-26567946
+    [TEXT] #3:11 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":56,"y":33},"dimensions":{"width":275,"height":176}} fills=fill_34dc0314 textStyle=style_4106b36b text="  - 01 Спасибо: подтверждение\\n  - 02 Спасибо: что дальше\\n  - 03 Спасибо: рекомендации\\n  - 04 404: иллюстрация\\n  - 05 404: навигация\\n  - 06 Текстовый шаблон\\n  - 07 Оглавление\\n  - 08 Дата обновления"
+  [FRAME] "Служебные" #3:12 layout={"mode":"none","sizing":{},"dimensions":{"width":374,"height":396}} fills=fill_658ab2fa
+    [TEXT] #3:13 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":56,"y":33},"dimensions":{"width":225,"height":330}} fills=fill_34dc0314 textStyle=style_4106b36b text="  - G1 Header sticky\\n  - G2 Footer\\n  - G3 Карточка встречи\\n  - G4 Карточка спикера\\n  - G5 Карточка статьи\\n  - G6 Карточка отзыва\\n  - G7 Аккордеон\\n  - G8 Кнопки\\n  - G9 Поля формы\\n  - G10 Бейджи и теги\\n  - G11 Модалка\\n  - G12 Тосты\\n  - G13 Пустые состояния\\n  - G14 Крошки\\n  - G15 Пагинация"
+  [RECTANGLE] "image 25" #57:60 layout={"mode":"none","sizing":{},"dimensions":{"width":319,"height":425}} fills=[{"type":"IMAGE","imageRef":"0a6a81bac5cc8813f0db967a77aa952d9a61c579","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [FRAME] "Полный" #4:15 layout={"mode":"column","alignItems":"stretch","sizing":{"horizontal":"fixed","vertical":"hug"},"dimensions":{"width":4336}}
+    [FRAME] "Описание" #4:16 layout=layout_314cd582 fills=["#D2D2D2"]
+      [FRAME] "О проекте" #4:17 template=EL-a9e9e851
+        [TEXT] #4:18 layout=layout_177c5efc fills=fill_34dc0314 textStyle=style_23469240 text="О проекте"
+        [TEXT] #4:19 layout=layout_383a1aa7 fills=fill_34dc0314 textStyle=style_b0209ec1 text="«Крым — Притяжения» — эксклюзивное агентство недвижимости бизнес-класса, которое открывает двери к лучшим объектам южного побережья Крыма. Мы берём на себя всю сложность выбора и юридического сопровождения, чтобы вы могли уверенно инвестировать и жить в своём идеальном доме у моря. Для клиентов из России и Европы — полный сервис с гарантией прозрачности и надежности."
+      [FRAME] "Атомосфера" #4:20 template=EL-a9e9e851
+        [TEXT] #4:21 layout=layout_177c5efc fills=fill_34dc0314 textStyle=style_23469240 text="Атмосфера и концепция сайта"
+        [TEXT] #4:22 template=EL-57aac99f
+      [FRAME] "Ассоциации" #4:23 template=EL-a9e9e851
+        [TEXT] #4:24 layout=layout_177c5efc fills=fill_34dc0314 textStyle=style_23469240 text="Ассоциации, эмоции"
+        [TEXT] #4:25 template=EL-57aac99f
+      [FRAME] "Цвета" #4:26 template=EL-a2782e9a
+        [FRAME] "Описание" #4:27 template=EL-5374532d
+          [TEXT] #4:28 template=EL-d01bc1fb
+          [TEXT] #4:29 template=EL-ada1c21d
+        [FRAME] "Варианты" #4:30 template=EL-f092bc36
+          [ELLIPSE] "Color2" #4:31 layout=layout_fd7fda47 fills=["#08457E"]
+          [ELLIPSE] "Color1" #4:32 layout=layout_fd7fda47 fills=["#1CA9C9"]
+          [ELLIPSE] "Color0" #4:33 layout=layout_fd7fda47 fills=["#F2E8CF"]
+          [ELLIPSE] "Color0" #4:34 layout=layout_fd7fda47 fills=["#2E2E2E"]
+          [ELLIPSE] "Color3" #4:35 layout=layout_fd7fda47 fills=["#3E5172"]
+          [ELLIPSE] "Color3" #4:36 template=EL-1117299d
+          [ELLIPSE] "Color2" #4:37 template=EL-1117299d
+          [ELLIPSE] "Color4" #4:38 template=EL-1117299d
+      [FRAME] "Шрифты" #4:39 template=EL-a2782e9a
+        [FRAME] "Описание" #4:40 template=EL-5374532d
+          [TEXT] #4:41 layout=layout_177c5efc fills=fill_34dc0314 textStyle=style_23469240 text="Шрифты"
+          [TEXT] #4:42 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"hug"},"dimensions":{"width":307}} fills=fill_34dc0314 textStyle={"fontFamily":"Montserrat","fontStyle":"Medium","fontWeight":500,"fontSize":20,"lineHeight":"1.3em","textAlignHorizontal":"LEFT","textAlignVertical":"TOP"} text="Описание"
+        [FRAME] "Варианты" #4:43 layout={"mode":"column","gap":"20px","sizing":{"horizontal":"hug","vertical":"hug"}}
+          [FRAME] "1" #4:44 template=EL-5374532d
+            [TEXT] #4:45 layout=layout_177c5efc fills=fill_34dc0314 textStyle=style_54bca0d8 text="Вариант 1"
+            [FRAME] #4:46 template=EL-5374532d
+              [TEXT] #4:47 layout=layout_47248d9b fills=fill_34dc0314 textStyle={"fontFamily":"Montserrat Alternates","fontStyle":"Medium","fontWeight":500,"fontSize":36,"lineHeight":"1.3em","textAlignHorizontal":"LEFT","textAlignVertical":"TOP","paragraphSpacing":17.394136428833008} text="Заголовок"
+              [TEXT] #4:48 layout=layout_47248d9b fills=fill_34dc0314 textStyle={"fontFamily":"Open Sans","fontStyle":"Regular","fontWeight":400,"fontSize":17,"lineHeight":"1.3em","textAlignHorizontal":"LEFT","textAlignVertical":"TOP","paragraphSpacing":17.394136428833008} text="Основной текста"
+          [FRAME] "2" #4:49 template=EL-5374532d
+            [TEXT] #4:50 layout=layout_177c5efc fills=fill_34dc0314 textStyle=style_54bca0d8 text="Вариант 2"
+            [FRAME] #4:51 template=EL-5374532d
+              [TEXT] #4:52 layout=layout_47248d9b fills=fill_34dc0314 textStyle={"fontFamily":"Unbounded","fontStyle":"Regular","fontWeight":400,"fontSize":36,"lineHeight":"1.3em","textAlignHorizontal":"LEFT","textAlignVertical":"TOP","paragraphSpacing":17.394136428833008} text="Заголовок"
+              [TEXT] #4:53 template=EL-09712e64
+          [FRAME] "3" #4:54 template=EL-5374532d
+            [TEXT] #4:55 layout=layout_177c5efc fills=fill_34dc0314 textStyle=style_54bca0d8 text="Вариант 3"
+            [FRAME] #4:56 template=EL-5374532d
+              [TEXT] #4:57 layout=layout_47248d9b fills=fill_34dc0314 textStyle={"fontFamily":"Montserrat","fontStyle":"Medium","fontWeight":500,"fontSize":36,"lineHeight":"1.3em","textAlignHorizontal":"LEFT","textAlignVertical":"TOP","paragraphSpacing":17.394136428833008} text="Заголовок"
+              [TEXT] #4:58 template=EL-09712e64
+    [FRAME] "3" #4:105 template=EL-02046d22
+      [FRAME] "Описание" #4:106 template=EL-698f884d
+        [TEXT] #4:107 layout=layout_07a9e0f7 fills=fill_34dc0314 textStyle=style_c4a31de8 text="Главная страница"
+        [TEXT] #4:108 template=EL-012ac20d
+      [FRAME] "Референсы" #4:109 template=EL-fd5614c3
+        [FRAME] "1" #4:110 template=EL-2fc92635
+          [RECTANGLE] "image 1" #19:352 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":478,"height":268}} fills=[{"type":"IMAGE","imageRef":"efe93617ba91e424ffa264eb5f619318d86f697e","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+          [TEXT] #4:112 layout=layout_07a9e0f7 fills=fill_34dc0314 textStyle=style_3348368c text="Центровое расположение"
+        [FRAME] "2" #4:113 template=EL-2fc92635
+          [RECTANGLE] "image 2" #19:355 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":419,"height":314}} fills=[{"type":"IMAGE","imageRef":"f841c43cd4eb3cc459e42c7d16d217e9f43330ec","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+          [TEXT] #4:115 layout=layout_07a9e0f7 fills=fill_34dc0314 textStyle=style_3348368c text="Блоки вокруг центрового предмета"
+        [FRAME] "3" #4:116 template=EL-2fc92635
+          [RECTANGLE] "image 3" #19:358 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":415,"height":262}} fills=[{"type":"IMAGE","imageRef":"d176262e905deeaa6dd463db45e0f8795fbb036f","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+          [TEXT] #4:118 layout=layout_07a9e0f7 fills=fill_34dc0314 textStyle=style_3348368c text="Подчеркивание"
+        [FRAME] "4" #4:119 template=EL-2fc92635
+          [IMAGE-SVG] #4:120 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":442,"height":291}} fills=[{"type":"IMAGE","imageRef":"6e729ebea3bf5ea924f302de913d18191022ddf6","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+          [TEXT] #4:121 layout=layout_07a9e0f7 fills=fill_34dc0314 textStyle=style_3348368c text="Разделение экрана надвое, чистая картинка"
+        [FRAME] "5" #4:122 template=EL-2fc92635
+          [RECTANGLE] "image 4" #20:361 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":467,"height":281}} fills=[{"type":"IMAGE","imageRef":"2029a1a038cc01a74dd292e155b3db3ff7dfba4f","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+          [TEXT] #4:124 layout=layout_07a9e0f7 fills=fill_34dc0314 textStyle=style_3348368c text="Шрифт + контраст + фон"
+        [FRAME] "7" #22:363 template=EL-2fc92635
+          [IMAGE-SVG] #22:364 layout=layout_811bbf7f fills=[{"type":"IMAGE","imageRef":"3877ac99214e15cae1ebfdb215f5651967607204","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+          [TEXT] #22:365 layout=layout_07a9e0f7 fills=fill_34dc0314 textStyle=style_3348368c text="Крутой визуал на бэкграунде"
+        [FRAME] "8" #22:366 template=EL-2fc92635
+          [IMAGE-SVG] #22:367 layout=layout_811bbf7f fills=[{"type":"IMAGE","imageRef":"3380dc4e8bed50068b4ef96f33126081769f894c","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+          [TEXT] #22:368 layout=layout_07a9e0f7 fills=fill_34dc0314 textStyle=style_3348368c text="Центрированное расположение + гротеск"
+        [FRAME] "6" #4:125 template=EL-2fc92635
+          [IMAGE-SVG] #4:126 layout=layout_811bbf7f fills=[{"type":"IMAGE","imageRef":"f5852808106069d1dbfb1d44340181fb3c2ecbd1","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+          [TEXT] #4:127 layout=layout_07a9e0f7 fills=fill_34dc0314 textStyle=style_3348368c text="Много блоков интерактивных"
+    [FRAME] "4" #4:128 template=EL-d3fe95c9
+      [FRAME] "Описание" #4:129 template=EL-698f884d
+        [TEXT] #4:130 layout=layout_07a9e0f7 fills=fill_34dc0314 textStyle=style_c4a31de8 text="Цифры клуба"
+        [TEXT] #4:131 template=EL-012ac20d
+      [FRAME] "Референсы" #4:132 template=EL-fd5614c3
+        [FRAME] "1" #4:133 template=EL-2fc92635
+          [RECTANGLE] "image 6" #24:380 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":400,"height":385}} fills=[{"type":"IMAGE","imageRef":"b60d0823ea65c390d97cf2c25e8cbfb01646d53c","scaleMode":"STRETCH","objectFit":"fill","isBackground":false,"imageDownloadArguments":{"needsCropping":true,"requiresImageDimensions":false,"cropTransform":[[1,0,0],[0,0.5357142686843872,0.4642857313156128]],"filenameSuffix":"7b5e80"}}]
+          [TEXT] #4:135 layout=layout_07a9e0f7 fills=fill_34dc0314 textStyle=style_3348368c text="В округлых блоках писать факты"
+        [FRAME] "2" #4:136 template=EL-2fc92635
+          [RECTANGLE] "image 11" #27:12 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":400,"height":552}} fills=[{"type":"IMAGE","imageRef":"6e6751ec66e84fd052d02fd03e0306878d106f9d","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+          [TEXT] #4:138 template=EL-59998095
+        [FRAME] "3" #4:139 template=EL-2fc92635
+          [IMAGE-SVG] #4:140 template=EL-a708e474
+          [TEXT] #4:141 template=EL-59998095
+        [FRAME] "4" #4:142 template=EL-2fc92635
+          [IMAGE-SVG] #4:143 template=EL-a708e474
+          [TEXT] #4:144 template=EL-59998095
+        [FRAME] "5" #4:145 template=EL-2fc92635
+          [IMAGE-SVG] #4:146 template=EL-a708e474
+          [TEXT] #4:147 template=EL-59998095
+        [FRAME] "6" #4:148 template=EL-2fc92635
+          [IMAGE-SVG] #4:149 template=EL-a708e474
+          [TEXT] #4:150 template=EL-59998095
+    [FRAME] "5" #4:151 template=EL-02046d22
+      [FRAME] "Описание" #4:152 template=EL-698f884d
+        [TEXT] #4:153 layout=layout_07a9e0f7 fills=fill_34dc0314 textStyle=style_c4a31de8 text="Для кого"
+        [TEXT] #4:154 template=EL-012ac20d
+      [FRAME] "Референсы" #4:155 template=EL-fd5614c3
+        [FRAME] "1" #4:156 template=EL-2fc92635
+          [RECTANGLE] "image 13" #28:18 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":588,"height":323}} fills=[{"type":"IMAGE","imageRef":"66cf44bad6d4c855d399567ec12af1c9ccfb6265","scaleMode":"STRETCH","objectFit":"fill","isBackground":false,"imageDownloadArguments":{"needsCropping":true,"requiresImageDimensions":false,"cropTransform":[[0.9994577169418335,0,0.00027108434005640447],[0,0.3112449645996094,0.3674698770046234]],"filenameSuffix":"68c6c9"}}]
+          [TEXT] #4:158 template=EL-59998095
+        [FRAME] "2" #4:159 template=EL-2fc92635
+          [RECTANGLE] "image 16" #30:27 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":580,"height":310}} fills=[{"type":"IMAGE","imageRef":"ff667df715f664c03f91fe78f6db633e9e57241c","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+          [TEXT] #4:161 template=EL-59998095
+        [FRAME] "3" #4:162 template=EL-2fc92635
+          [IMAGE-SVG] #4:163 template=EL-a708e474
+          [TEXT] #4:164 template=EL-59998095
+        [FRAME] "4" #4:165 template=EL-2fc92635
+          [IMAGE-SVG] #4:166 template=EL-a708e474
+          [TEXT] #4:167 template=EL-59998095
+        [FRAME] "5" #4:168 template=EL-2fc92635
+          [IMAGE-SVG] #4:169 template=EL-a708e474
+          [TEXT] #4:170 template=EL-59998095
+        [FRAME] "6" #4:171 template=EL-2fc92635
+          [IMAGE-SVG] #4:172 template=EL-a708e474
+          [TEXT] #4:173 template=EL-59998095
+    [FRAME] "11" #16:297 template=EL-d3fe95c9
+      [FRAME] "Описание" #16:298 template=EL-698f884d
+        [TEXT] #16:299 layout=layout_07a9e0f7 fills=fill_34dc0314 textStyle=style_c4a31de8 text="Форматы встреч"
+        [TEXT] #16:300 template=EL-012ac20d
+      [FRAME] "Референсы" #16:301 template=EL-fd5614c3
+        [FRAME] "1" #16:302 template=EL-2fc92635
+          [RECTANGLE] "image 8" #26:3 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":358,"height":636}} fills=[{"type":"IMAGE","imageRef":"96b356a4f5f4e23e0288fefb720ed9b54ca19cdd","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+          [TEXT] #16:304 layout=layout_07a9e0f7 fills=fill_34dc0314 textStyle=style_3348368c text="Последний блок"
+        [FRAME] "2" #16:305 template=EL-2fc92635
+          [IMAGE-SVG] #16:306 template=EL-a708e474
+          [TEXT] #16:307 template=EL-59998095
+        [FRAME] "3" #16:308 template=EL-2fc92635
+          [IMAGE-SVG] #16:309 template=EL-a708e474
+          [TEXT] #16:310 template=EL-59998095
+        [FRAME] "4" #16:311 template=EL-2fc92635
+          [IMAGE-SVG] #16:312 template=EL-a708e474
+          [TEXT] #16:313 template=EL-59998095
+        [FRAME] "5" #16:314 template=EL-2fc92635
+          [IMAGE-SVG] #16:315 template=EL-a708e474
+          [TEXT] #16:316 template=EL-59998095
+        [FRAME] "6" #16:317 template=EL-2fc92635
+          [IMAGE-SVG] #16:318 template=EL-a708e474
+          [TEXT] #16:319 template=EL-59998095
+    [FRAME] "7" #4:197 template=EL-02046d22
+      [FRAME] "Описание" #4:198 template=EL-698f884d
+        [TEXT] #4:199 layout=layout_07a9e0f7 fills=fill_34dc0314 textStyle=style_c4a31de8 text="Как проходит встреча"
+        [TEXT] #4:200 template=EL-012ac20d
+      [FRAME] "Референсы" #4:201 template=EL-fd5614c3
+        [FRAME] "1" #4:202 template=EL-2fc92635
+          [RECTANGLE] "image 12" #28:15 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":775,"height":335}} fills=[{"type":"IMAGE","imageRef":"5146a508702bb3ecca71f14dd4a30e3e60c3923d","scaleMode":"STRETCH","objectFit":"fill","isBackground":false,"imageDownloadArguments":{"needsCropping":true,"requiresImageDimensions":false,"cropTransform":[[1,0,0],[0,0.2510668635368347,0.4811289608478546]],"filenameSuffix":"33373e"}}]
+          [TEXT] #4:204 template=EL-59998095
+        [FRAME] "2" #4:205 template=EL-2fc92635
+          [RECTANGLE] "image 17" #30:30 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":595,"height":315}} fills=[{"type":"IMAGE","imageRef":"b4f30dc01af4fb84576c3b7c13359c06a706a7a6","scaleMode":"STRETCH","objectFit":"fill","isBackground":false,"imageDownloadArguments":{"needsCropping":true,"requiresImageDimensions":false,"cropTransform":[[1,0,0],[0,0.29816514253616333,0.32415902614593506]],"filenameSuffix":"33f0ab"}}]
+          [TEXT] #4:207 template=EL-59998095
+        [FRAME] "3" #4:208 template=EL-2fc92635
+          [IMAGE-SVG] #4:209 template=EL-a708e474
+          [TEXT] #4:210 template=EL-59998095
+        [FRAME] "4" #4:211 template=EL-2fc92635
+          [IMAGE-SVG] #4:212 template=EL-a708e474
+          [TEXT] #4:213 template=EL-59998095
+        [FRAME] "5" #4:214 template=EL-2fc92635
+          [IMAGE-SVG] #4:215 template=EL-a708e474
+          [TEXT] #4:216 template=EL-59998095
+        [FRAME] "6" #4:217 template=EL-2fc92635
+          [IMAGE-SVG] #4:218 template=EL-a708e474
+          [TEXT] #4:219 template=EL-59998095
+    [FRAME] "9" #4:243 template=EL-02046d22
+      [FRAME] "Описание" #4:244 template=EL-698f884d
+        [TEXT] #4:245 layout=layout_07a9e0f7 fills=fill_34dc0314 textStyle=style_c4a31de8 text="Ближайшие встречи"
+        [TEXT] #4:246 template=EL-012ac20d
+      [FRAME] "Референсы" #4:247 template=EL-fd5614c3
+        [FRAME] "1" #4:248 template=EL-2fc92635
+          [RECTANGLE] "image 10" #26:9 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":510,"height":293}} fills=[{"type":"IMAGE","imageRef":"6915db07b0ac9b456ec4cfff6f7990148d085837","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+          [TEXT] #4:250 template=EL-59998095
+        [FRAME] "2" #4:251 template=EL-2fc92635
+          [IMAGE-SVG] #4:252 layout=layout_be2c37da fills=[{"type":"IMAGE","imageRef":"a57f257266690eeb51b6d627643bb5d8fb5fb347","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+          [TEXT] #4:253 template=EL-59998095
+        [FRAME] "3" #4:254 template=EL-2fc92635
+          [IMAGE-SVG] #4:255 template=EL-a708e474
+          [TEXT] #4:256 template=EL-59998095
+        [FRAME] "4" #4:257 template=EL-2fc92635
+          [IMAGE-SVG] #4:258 template=EL-a708e474
+          [TEXT] #4:259 template=EL-59998095
+        [FRAME] "5" #4:260 template=EL-2fc92635
+          [IMAGE-SVG] #4:261 template=EL-a708e474
+          [TEXT] #4:262 template=EL-59998095
+        [FRAME] "6" #4:263 template=EL-2fc92635
+          [IMAGE-SVG] #4:264 template=EL-a708e474
+          [TEXT] #4:265 template=EL-59998095
+    [FRAME] "8" #4:220 template=EL-02046d22
+      [FRAME] "Описание" #4:221 template=EL-698f884d
+        [TEXT] #4:222 layout=layout_07a9e0f7 fills=fill_34dc0314 textStyle=style_c4a31de8 text="Спикеры"
+        [TEXT] #4:223 template=EL-012ac20d
+      [FRAME] "Референсы" #4:224 template=EL-fd5614c3
+        [FRAME] "1" #4:225 template=EL-2fc92635
+          [RECTANGLE] "image 7" #24:383 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":437,"height":328}} fills=[{"type":"IMAGE","imageRef":"c328f6c95bb1a00fd60020f12f05171533af1b8f","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+          [TEXT] #4:227 template=EL-59998095
+        [FRAME] "2" #4:228 template=EL-2fc92635
+          [RECTANGLE] "image 15" #28:24 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":468,"height":306}} fills=[{"type":"IMAGE","imageRef":"b2911a56bc0e9df43930ecb65d1339a642a0fa64","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+          [TEXT] #4:230 template=EL-59998095
+        [FRAME] "3" #4:231 template=EL-2fc92635
+          [IMAGE-SVG] #4:232 template=EL-a708e474
+          [TEXT] #4:233 template=EL-59998095
+        [FRAME] "4" #4:234 template=EL-2fc92635
+          [IMAGE-SVG] #4:235 template=EL-a708e474
+          [TEXT] #4:236 template=EL-59998095
+        [FRAME] "5" #4:237 template=EL-2fc92635
+          [IMAGE-SVG] #4:238 template=EL-a708e474
+          [TEXT] #4:239 template=EL-59998095
+        [FRAME] "6" #4:240 template=EL-2fc92635
+          [IMAGE-SVG] #4:241 template=EL-a708e474
+          [TEXT] #4:242 template=EL-59998095
+    [FRAME] "12" #16:321 template=EL-02046d22
+      [FRAME] "Описание" #16:322 template=EL-698f884d
+        [TEXT] #16:323 layout=layout_07a9e0f7 fills=fill_34dc0314 textStyle=style_c4a31de8 text="Отзывы"
+        [TEXT] #16:324 template=EL-012ac20d
+      [FRAME] "Референсы" #16:325 template=EL-fd5614c3
+        [FRAME] "1" #16:326 template=EL-2fc92635
+          [RECTANGLE] "refero.design leonardo.ai 1" #17:346 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":399,"height":315}} fills=[{"type":"IMAGE","imageRef":"bf900ecfdea7521c89892fe647ae9862f4ecbe31","scaleMode":"STRETCH","objectFit":"fill","isBackground":false,"imageDownloadArguments":{"needsCropping":true,"requiresImageDimensions":false,"cropTransform":[[1,0,0],[0,0.111572265625,0]],"filenameSuffix":"1f0811"}}]
+          [TEXT] #16:328 template=EL-59998095
+        [FRAME] "2" #16:329 template=EL-2fc92635
+          [RECTANGLE] "image 9" #26:6 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":551,"height":313.04}} fills=[{"type":"IMAGE","imageRef":"e0ef5c62cf6d6b0e68894a3fc892e88b371c8ec5","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+          [TEXT] #16:331 template=EL-59998095
+        [FRAME] "3" #16:332 template=EL-2fc92635
+          [IMAGE-SVG] #16:333 template=EL-a708e474
+          [TEXT] #16:334 template=EL-59998095
+        [FRAME] "4" #16:335 template=EL-2fc92635
+          [IMAGE-SVG] #16:336 template=EL-a708e474
+          [TEXT] #16:337 template=EL-59998095
+        [FRAME] "5" #16:338 template=EL-2fc92635
+          [IMAGE-SVG] #16:339 template=EL-a708e474
+          [TEXT] #16:340 template=EL-59998095
+        [FRAME] "6" #16:341 template=EL-2fc92635
+          [IMAGE-SVG] #16:342 template=EL-a708e474
+          [TEXT] #16:343 template=EL-59998095
+    [FRAME] "6" #4:174 template=EL-d3fe95c9
+      [FRAME] "Описание" #4:175 template=EL-698f884d
+        [TEXT] #4:176 layout=layout_07a9e0f7 fills=fill_34dc0314 textStyle=style_c4a31de8 text="Блог"
+        [TEXT] #4:177 template=EL-012ac20d
+      [FRAME] "Референсы" #4:178 template=EL-fd5614c3
+        [FRAME] "1" #4:179 template=EL-2fc92635
+          [IMAGE-SVG] #10:293 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":400,"height":566}} fills=[{"type":"IMAGE","imageRef":"12dece40eda78d1483d051c87acfa250aade0397","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+          [TEXT] #4:181 template=EL-59998095
+        [FRAME] "2" #4:182 template=EL-2fc92635
+          [RECTANGLE] "image 14" #28:21 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":634,"height":562}} fills=[{"type":"IMAGE","imageRef":"fa463e8a4a9523b46c22e50110cc76510014b579","scaleMode":"STRETCH","objectFit":"fill","isBackground":false,"imageDownloadArguments":{"needsCropping":true,"requiresImageDimensions":false,"cropTransform":[[1,0,0],[0,0.4983749985694885,0.5011250376701355]],"filenameSuffix":"81063e"}}]
+          [TEXT] #4:184 template=EL-59998095
+        [FRAME] "3" #4:185 template=EL-2fc92635
+          [IMAGE-SVG] #4:186 template=EL-a708e474
+          [TEXT] #4:187 template=EL-59998095
+        [FRAME] "4" #4:188 template=EL-2fc92635
+          [IMAGE-SVG] #4:189 template=EL-a708e474
+          [TEXT] #4:190 template=EL-59998095
+        [FRAME] "5" #4:191 template=EL-2fc92635
+          [IMAGE-SVG] #4:192 template=EL-a708e474
+          [TEXT] #4:193 template=EL-59998095
+        [FRAME] "6" #4:194 template=EL-2fc92635
+          [IMAGE-SVG] #4:195 template=EL-a708e474
+          [TEXT] #4:196 template=EL-59998095
+    [FRAME] "10" #4:266 template=EL-d3fe95c9
+      [FRAME] "Описание" #4:267 template=EL-698f884d
+        [TEXT] #4:268 layout=layout_07a9e0f7 fills=fill_34dc0314 textStyle=style_c4a31de8 text="404"
+        [TEXT] #4:269 template=EL-012ac20d
+      [FRAME] "Референсы" #4:270 template=EL-fd5614c3
+        [FRAME] "1" #4:271 template=EL-2fc92635
+          [RECTANGLE] "refero.design fable.co 1" #10:295 layout={"mode":"none","sizing":{"horizontal":"fixed","vertical":"fixed"},"dimensions":{"width":476,"height":505}} fills=[{"type":"IMAGE","imageRef":"cde723dbe23aae7587067759a5401880621760e8","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+          [TEXT] #4:273 template=EL-59998095
+        [FRAME] "2" #4:274 template=EL-2fc92635
+          [IMAGE-SVG] #4:275 template=EL-a708e474
+          [TEXT] #4:276 template=EL-59998095
+        [FRAME] "3" #4:277 template=EL-2fc92635
+          [IMAGE-SVG] #4:278 template=EL-a708e474
+          [TEXT] #4:279 template=EL-59998095
+        [FRAME] "4" #4:280 template=EL-2fc92635
+          [IMAGE-SVG] #4:281 template=EL-a708e474
+          [TEXT] #4:282 template=EL-59998095
+        [FRAME] "5" #4:283 template=EL-2fc92635
+          [IMAGE-SVG] #4:284 template=EL-a708e474
+          [TEXT] #4:285 template=EL-59998095
+        [FRAME] "6" #4:286 template=EL-2fc92635
+          [IMAGE-SVG] #4:287 template=EL-a708e474
+          [TEXT] #4:288 template=EL-59998095
+  [FRAME] "Цвета" #47:5 template=EL-a2782e9a
+    [FRAME] "Описание" #47:6 template=EL-5374532d
+      [TEXT] #47:7 template=EL-d01bc1fb
+      [TEXT] #47:8 template=EL-ada1c21d
+    [FRAME] "Варианты" #47:9 template=EL-f092bc36
+      [ELLIPSE] "Color2" #47:10 layout=layout_fd7fda47 fills=["#870100"]
+      [ELLIPSE] "Color1" #47:11 layout=layout_fd7fda47 fills=["#9DA8FF"]
+      [ELLIPSE] "Color0" #47:12 template=EL-1117299d
+      [ELLIPSE] "Color0" #47:13 template=EL-1117299d
+      [ELLIPSE] "Color3" #47:14 template=EL-1117299d
+      [ELLIPSE] "Color3" #47:15 template=EL-1117299d
+      [ELLIPSE] "Color2" #47:16 template=EL-1117299d
+      [ELLIPSE] "Color4" #47:17 template=EL-1117299d
+  [RECTANGLE] "image 5" #22:375 layout={"mode":"none","sizing":{},"dimensions":{"width":292,"height":466}} fills=[{"type":"IMAGE","imageRef":"768c7e97dd559ce7042ec9ea2afd7f4a60dbf51e","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [RECTANGLE] "image 19" #47:20 layout={"mode":"none","sizing":{},"dimensions":{"width":640,"height":640}} fills=[{"type":"IMAGE","imageRef":"04771560c5a3ab931e6fc11550c235bec0642276","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [RECTANGLE] "image 27" #59:69 layout={"mode":"none","sizing":{},"dimensions":{"width":558,"height":1546}} fills=[{"type":"IMAGE","imageRef":"39f9b4c36bbf0b4430676ada37cf4e9b7e0d168a","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [RECTANGLE] "image 28" #61:78 layout={"mode":"none","sizing":{},"dimensions":{"width":393,"height":590}} fills=[{"type":"IMAGE","imageRef":"c7137455fceca72b1618906719c8ca8e255dd653","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [RECTANGLE] "image 30" #61:84 layout={"mode":"none","sizing":{},"dimensions":{"width":586,"height":594}} fills=[{"type":"IMAGE","imageRef":"ee1e34b2145408306315a5d88b367f95bc829414","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}] borderRadius=20px
+  [RECTANGLE] "image 35" #63:188 layout={"mode":"none","sizing":{},"dimensions":{"width":994,"height":1242}} fills=[{"type":"IMAGE","imageRef":"de8d8d58d505dd2bbc0675807d2e84efbbd2dfc7","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [COMPONENT] "si:flag-line" #65:271 layout=layout_906e6468 fills=fill_97d170e1
+    [IMAGE-SVG] "Vector" #65:270 layout={"mode":"none","sizing":{},"locationRelativeToParent":{"x":24.67,"y":24.67},"dimensions":{"width":104.83,"height":98.67}} strokes=fill_658ab2fa strokeWeight=4px
+  [RECTANGLE] "image 39" #73:458 layout={"mode":"none","sizing":{},"dimensions":{"width":582,"height":388}} fills=[{"type":"IMAGE","imageRef":"d67b02183b629bbe9a116250032f103bb5b94d55","scaleMode":"FILL","objectFit":"cover","isBackground":false,"imageDownloadArguments":{"needsCropping":false,"requiresImageDimensions":false}}]
+  [RECTANGLE] "image 41" #84:467 layout={"mode":"none","sizing":{},"dimensions":{"width":1024,"height":1536}} fills=fill_c21591c2
+  [SLICE] #85:3 layout={"mode":"none","sizing":{},"dimensions":{"width":100,"height":100}}
+  [TEXT] #159:8 layout={"mode":"none","sizing":{},"dimensions":{"width":1606,"height":512}} fills=fill_658ab2fa textStyle={"fontFamily":"Inter","fontStyle":"Regular","fontWeight":400,"fontSize":53,"lineHeight":"1.2em","textAlignHorizontal":"LEFT","textAlignVertical":"TOP"} text="Кстати на счет сайта, вот что точно нужно это страничка с блогом где можно писать статьи различные, страничка с нашими соц сетями, страничка отдельно репетиторы и команда и еще плажка с надписью вступить в команду\\(тут можно поставить анкету небольшую и расписать на какие роли допустим вакансия сейчас\\), страничка с лк, еще можно добавить какой нибудь интерактив например тест на уровень языка или ии привязать как ассистента"

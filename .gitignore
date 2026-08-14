@@ -1,0 +1,4 @@
+lending/node_modules/
+lending/dist/
+*.log
+.DS_Store
