@@ -11,6 +11,7 @@
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
     "verify:hero": "node scripts/verify-hero.cjs",
+    "verify:figma-hero": "node scripts/verify-figma-hero.cjs",
     "serve:export": "node scripts/serve-static-export.cjs"
   },
   "dependencies": {
